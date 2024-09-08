@@ -1,0 +1,1121 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-breaks-ground-on-planned-natrium-npp/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "SK Innovation",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sodium",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "ArcelorMittal",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seversk",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chernobyl",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Phenix",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "TerraPower",
+        "frequency": 22
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-signs-mous-with-enec-and-uranium-energy-corp-11351984/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kepco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Korea Electric Power Company",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Terrapower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mark Gordon",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Amir Adnani",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UEC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Johnson County",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "TerraPower",
+        "frequency": 21
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-applies-for-natrium-reactor-demonstration-project-construction-permit-11651111/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Lebeque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "TerraPower",
+        "frequency": 19
+    },
+    {
+        "url": "https://www.neimagazine.com/news/new-build-life-extension/us-nrc-accepts-construction-permit-application-for-terrapowers-natrium-reactor/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jeff Navin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "TerraPower",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-and-centrus-accelerate-efforts-to-commercialise-haleu-production-11018234/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Centrus Energy Corp",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Daniel B Poneman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "TerraPower",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-awards-contracts-for-natrium-reactor-demonstration-project-11077749/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tara Neider",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Western Service Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wright",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Curtiss",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "TerraPower",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-smr-vendors-court-enec-at-cop28-11356613/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Dubai",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dubai",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Dubai",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mohamed Al Hammadi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Barakah",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Middle East",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Al Hammadi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Scott Strazik",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Vernova",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Vernova",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dalya Al Muthanna",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Livingston",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower Natrium",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Patrick Frag",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Al Hammadi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "eVinci",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mohamed Al Hammadi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "TerraPower",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapowers-natrium-reactor-project-delayed-by-lack-of-haleu-10443311/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jeff Navin",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Navin",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mark Gordon",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Navin",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Barrasso",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "PacifiCorp",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Naughton Power Plant",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "TerraPower",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-announces-fundraising-of-750-million-9937174/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moohwan Kim",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Green Investment Centre",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "TerraPower",
+        "frequency": 11
+    }
+]

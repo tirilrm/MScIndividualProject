@@ -1,0 +1,2857 @@
+{
+    "ARC": [
+        [
+            "Bill Labbe",
+            "PER",
+            "ARC",
+            "ORG",
+            "company"
+        ],
+        [
+            "Lori Clark",
+            "PER",
+            "ARC",
+            "ORG",
+            "company"
+        ],
+        [
+            "Lori Clark",
+            "PER",
+            "NB Power",
+            "ORG",
+            "company"
+        ],
+        [
+            "Alberta",
+            "LOC",
+            "ARC",
+            "ORG",
+            "contains"
+        ],
+        [
+            "New Brunswick",
+            "LOC",
+            "ARC",
+            "ORG",
+            "contains"
+        ],
+        [
+            "William Labbe",
+            "PER",
+            "ARC",
+            "ORG",
+            "company"
+        ]
+    ],
+    "Babcock and Wilcox": [
+        [
+            "David Lockwood",
+            "PER",
+            "Babcock and Wilcox",
+            "ORG",
+            "company"
+        ]
+    ],
+    "BWX": [
+        [
+            "Canada",
+            "LOC",
+            "BWX",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Joe Miller",
+            "PER",
+            "BWX",
+            "ORG",
+            "company"
+        ],
+        [
+            "Rex D Geve",
+            "PER",
+            "BWX",
+            "ORG",
+            "company"
+        ],
+        [
+            "BWX",
+            "ORG",
+            "Naval Reactors",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Sharon Smoot",
+            "PER",
+            "Naval Reactors",
+            "ORG",
+            "company"
+        ],
+        [
+            "John Bendle",
+            "PER",
+            "Lockheed Martin",
+            "ORG",
+            "company"
+        ],
+        [
+            "BWX",
+            "ORG",
+            "Lockheed Martin",
+            "ORG",
+            "company location"
+        ],
+        [
+            "James L Reuter",
+            "PER",
+            "NASA",
+            "ORG",
+            "company"
+        ],
+        [
+            "Naval Reactors",
+            "ORG",
+            "BWX",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Joe Miller",
+            "PER",
+            "Wyoming",
+            "LOC",
+            "residence"
+        ],
+        [
+            "Wyoming",
+            "LOC",
+            "BWX",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Kirk Shireman",
+            "PER",
+            "Lockheed Martin",
+            "ORG",
+            "company"
+        ],
+        [
+            "BWX",
+            "ORG",
+            "NASA",
+            "ORG",
+            "company"
+        ],
+        [
+            "BWX",
+            "ORG",
+            "NASA",
+            "ORG",
+            "company location"
+        ]
+    ],
+    "Elysium": [],
+    "Flibe": [],
+    "Framatome": [
+        [
+            "Wynter Benda",
+            "PER",
+            "Lynchburg",
+            "LOC",
+            "residence"
+        ],
+        [
+            "Tony Wood",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Framatome",
+            "ORG",
+            "Europe",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Framatome",
+            "ORG",
+            "Lynchburg",
+            "LOC",
+            "company location"
+        ],
+        [
+            "France",
+            "LOC",
+            "Framatome",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Lynchburg",
+            "LOC",
+            "Youngkin",
+            "PER",
+            "contains"
+        ],
+        [
+            "Virginia",
+            "LOC",
+            "Lynchburg",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Hungary",
+            "LOC",
+            "Framatome",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Loic Rocard",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Lionel Gaiffe",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Catherine Cornand",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Bernard Fontana",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Germany",
+            "LOC",
+            "Framatome",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Framatome",
+            "ORG",
+            "United Kingdom",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Jamie Campbell",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Francois Gauche",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Lynchburg",
+            "LOC",
+            "Framatome",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Framatome",
+            "ORG",
+            "France",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Gregoire Lambert",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Framatome",
+            "ORG",
+            "Virginia",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Framatome",
+            "ORG",
+            "North America",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Craig Ranson",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Slovakia",
+            "LOC",
+            "Framatome",
+            "ORG",
+            "contains"
+        ]
+    ],
+    "GE Hitachi": [
+        [
+            "Jeff Lyash",
+            "PER",
+            "TVA",
+            "ORG",
+            "company"
+        ],
+        [
+            "Japan",
+            "LOC",
+            "GE Hitachi",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Canada",
+            "LOC",
+            "SaskPower",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Marti Jeltsov",
+            "PER",
+            "Fermi Energia",
+            "ORG",
+            "company"
+        ],
+        [
+            "Tennessee",
+            "LOC",
+            "Clinch River",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Poland",
+            "LOC",
+            "GE Hitachi",
+            "ORG",
+            "contains"
+        ],
+        [
+            "GE Hitachi",
+            "ORG",
+            "International Atomic Energy Agency",
+            "ORG",
+            "industry"
+        ],
+        [
+            "Clinch River",
+            "LOC",
+            "Fiedler",
+            "PER",
+            "contains"
+        ],
+        [
+            "GE Hitachi",
+            "ORG",
+            "Wylfa",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Oldbury",
+            "LOC",
+            "Magnox",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Oldbury",
+            "LOC",
+            "Horizon Nuclear Power",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Jay Wileman",
+            "PER",
+            "SaskPower",
+            "ORG",
+            "company"
+        ],
+        [
+            "Saskatchewan",
+            "LOC",
+            "SaskPower",
+            "ORG",
+            "contains"
+        ],
+        [
+            "North Carolina",
+            "MISC",
+            "GE Hitachi",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Jay Wileman",
+            "PER",
+            "GE Hitachi",
+            "ORG",
+            "company"
+        ],
+        [
+            "Clinch River",
+            "LOC",
+            "GE Hitachi",
+            "ORG",
+            "contains"
+        ],
+        [
+            "SaskPower",
+            "ORG",
+            "Canada",
+            "LOC",
+            "division"
+        ],
+        [
+            "Estonia",
+            "LOC",
+            "GE Hitachi",
+            "ORG",
+            "contains"
+        ],
+        [
+            "GE Hitachi",
+            "ORG",
+            "North America",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Kalev Kallemets",
+            "PER",
+            "Fermi Energia",
+            "ORG",
+            "company"
+        ],
+        [
+            "South Gloucestershire",
+            "LOC",
+            "Oldbury",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Canada",
+            "LOC",
+            "TVA",
+            "ORG",
+            "contains"
+        ],
+        [
+            "ARIS",
+            "ORG",
+            "International Atomic Energy Agency",
+            "ORG",
+            "company"
+        ],
+        [
+            "SGE",
+            "ORG",
+            "GE Hitachi",
+            "ORG",
+            "company"
+        ],
+        [
+            "Clinch River",
+            "LOC",
+            "TVA",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Jay Wileman",
+            "PER",
+            "Fermi Energia",
+            "ORG",
+            "company"
+        ],
+        [
+            "Canada",
+            "LOC",
+            "Fermi Energia",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Tennessee Valley",
+            "LOC",
+            "TVA",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Tokyo",
+            "LOC",
+            "GE Hitachi",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Rupen Pandya",
+            "PER",
+            "SaskPower",
+            "ORG",
+            "company"
+        ],
+        [
+            "GE Hitachi",
+            "ORG",
+            "Oldbury",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Estonia",
+            "LOC",
+            "Fermi Energia",
+            "ORG",
+            "contains"
+        ],
+        [
+            "GE Hitachi",
+            "ORG",
+            "Fermi Energia",
+            "ORG",
+            "company"
+        ]
+    ],
+    "General Atomics": [
+        [
+            "Wayne Solomon",
+            "PER",
+            "General Atomics",
+            "ORG",
+            "company"
+        ],
+        [
+            "Anantha Krishnan",
+            "PER",
+            "General Atomics",
+            "ORG",
+            "company"
+        ],
+        [
+            "General Atomics",
+            "ORG",
+            "San Diego",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Brian Grierson",
+            "PER",
+            "General Atomics",
+            "ORG",
+            "company"
+        ]
+    ],
+    "HolosGen": [
+        [
+            "Wayne Solomon",
+            "PER",
+            "General Atomics",
+            "ORG",
+            "company"
+        ],
+        [
+            "Anantha Krishnan",
+            "PER",
+            "General Atomics",
+            "ORG",
+            "company"
+        ],
+        [
+            "General Atomics",
+            "ORG",
+            "San Diego",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Brian Grierson",
+            "PER",
+            "General Atomics",
+            "ORG",
+            "company"
+        ]
+    ],
+    "Holtec International": [
+        [
+            "Holtec International",
+            "ORG",
+            "Temelin",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Holtec International",
+            "ORG",
+            "Hyundai",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Inho Lee",
+            "PER",
+            "Holtec International",
+            "ORG",
+            "company"
+        ],
+        [
+            "United Kingdom",
+            "LOC",
+            "Holtec International",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Palisades",
+            "LOC",
+            "Holtec International",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Chris Bakken",
+            "PER",
+            "Entergy",
+            "ORG",
+            "company"
+        ],
+        [
+            "New Jersey",
+            "LOC",
+            "Holtec International",
+            "ORG",
+            "contains"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Holtec International",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Michigan",
+            "LOC",
+            "Palisades",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Holtec International",
+            "ORG",
+            "Camden",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Gareth Thomas",
+            "PER",
+            "Holtec International",
+            "ORG",
+            "company"
+        ],
+        [
+            "Czech Republic",
+            "LOC",
+            "Holtec International",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Entergy",
+            "ORG",
+            "Holtec International",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Holtec International",
+            "ORG",
+            "Palisades",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Holtec International",
+            "ORG",
+            "Entergy",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Michigan",
+            "LOC",
+            "Palisades",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Rick Springman",
+            "PER",
+            "Holtec International",
+            "ORG",
+            "company"
+        ],
+        [
+            "Rafael Marin",
+            "PER",
+            "Holtec International",
+            "ORG",
+            "company"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Holtec International",
+            "ORG",
+            "contains"
+        ],
+        [
+            "United States",
+            "MISC",
+            "Holtec International",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Holtec International",
+            "ORG",
+            "United Kingdom",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Kelly Trice",
+            "PER",
+            "Holtec International",
+            "ORG",
+            "company"
+        ],
+        [
+            "Kris Singh",
+            "PER",
+            "Holtec International",
+            "ORG",
+            "company"
+        ],
+        [
+            "Camden",
+            "LOC",
+            "Advanced Manufacturing",
+            "ORG",
+            "contains"
+        ],
+        [
+            "New Jersey",
+            "LOC",
+            "Camden",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Hee sung Yo",
+            "PER",
+            "Hyundai",
+            "ORG",
+            "company"
+        ],
+        [
+            "Holtec International",
+            "ORG",
+            "United States",
+            "MISC",
+            "company location"
+        ]
+    ],
+    "Kairos Power": [
+        [
+            "TRISO Development Lab",
+            "ORG",
+            "Hermes",
+            "ORG",
+            "company location"
+        ],
+        [
+            "New Mexico",
+            "LOC",
+            "Los Alamos National Laboratory",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Los Alamos",
+            "ORG",
+            "Los Alamos National Laboratory",
+            "ORG",
+            "contains"
+        ],
+        [
+            "New Mexico",
+            "LOC",
+            "Los Alamos",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Hermes",
+            "ORG",
+            "TRISO Development Lab",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Oak Ridge",
+            "LOC",
+            "Hermes",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Micah Hackett",
+            "PER",
+            "Kairos Power",
+            "ORG",
+            "company"
+        ],
+        [
+            "Oak Ridge",
+            "LOC",
+            "East Tennessee Technology Park",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Hermes",
+            "LOC",
+            "Kairos Power",
+            "ORG",
+            "company"
+        ],
+        [
+            "Kairos Power",
+            "ORG",
+            "Albuquerque",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Los Alamos",
+            "ORG",
+            "Hermes",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Kairos Power",
+            "ORG",
+            "Los Alamos National Laboratory",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Ed Blandford",
+            "PER",
+            "Kairos Power",
+            "ORG",
+            "company"
+        ]
+    ],
+    "Moltex Energy": [
+        [
+            "Canada",
+            "LOC",
+            "Moltex Energy",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Chris Hankins",
+            "PER",
+            "Moltex Energy",
+            "ORG",
+            "company"
+        ],
+        [
+            "United Kingdom",
+            "LOC",
+            "Moltex Energy",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Moltex Energy",
+            "ORG",
+            "Henry Royce Institute",
+            "ORG",
+            "company"
+        ],
+        [
+            "David Landon",
+            "PER",
+            "Moltex Energy",
+            "ORG",
+            "company"
+        ],
+        [
+            "United Arab Emirates",
+            "LOC",
+            "Moltex Energy",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Moltex Energy",
+            "ORG",
+            "Britain",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Phil Quayle",
+            "PER",
+            "Moltex Energy",
+            "ORG",
+            "company"
+        ],
+        [
+            "Chris Morgans",
+            "PER",
+            "Moltex Energy",
+            "ORG",
+            "company"
+        ]
+    ],
+    "NANO Nuclear": [
+        [
+            "Jay Jiang Yu",
+            "PER",
+            "NANO Nuclear",
+            "ORG",
+            "company"
+        ]
+    ],
+    "NuScale": [
+        [
+            "Utah",
+            "LOC",
+            "UAMPS",
+            "ORG",
+            "contains"
+        ],
+        [
+            "NuScale",
+            "ORG",
+            "Portland",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Jose Reyes",
+            "PER",
+            "NuScale",
+            "ORG",
+            "company"
+        ],
+        [
+            "Portland",
+            "LOC",
+            "Oregan",
+            "LOC",
+            "contains"
+        ],
+        [
+            "John Hopkins",
+            "PER",
+            "NuScale",
+            "ORG",
+            "company"
+        ],
+        [
+            "SNN",
+            "ORG",
+            "NuScale",
+            "MISC",
+            "company location"
+        ],
+        [
+            "Cosmin Ghita",
+            "PER",
+            "SNN",
+            "ORG",
+            "company"
+        ],
+        [
+            "Oregan",
+            "LOC",
+            "Portland",
+            "LOC",
+            "neighborhood"
+        ],
+        [
+            "NuScale",
+            "MISC",
+            "Europe",
+            "LOC",
+            "company location"
+        ],
+        [
+            "NuScale",
+            "MISC",
+            "Fluor",
+            "ORG",
+            "company location"
+        ],
+        [
+            "NuScale",
+            "MISC",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Cosmin Ghitasai",
+            "PER",
+            "SNN",
+            "ORG",
+            "company"
+        ],
+        [
+            "UAMPS",
+            "ORG",
+            "NuScale",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Cosmin Ghita",
+            "PER",
+            "Nuclearelectrica",
+            "ORG",
+            "company"
+        ],
+        [
+            "NuScale",
+            "ORG",
+            "ARC",
+            "ORG",
+            "company"
+        ],
+        [
+            "Oregon",
+            "MISC",
+            "Portland",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Clayton Scott",
+            "PER",
+            "NuScale",
+            "ORG",
+            "company"
+        ],
+        [
+            "Uamps",
+            "ORG",
+            "Salt Lake City",
+            "MISC",
+            "company location"
+        ],
+        [
+            "Ramsey Hamady",
+            "PER",
+            "NuScale",
+            "ORG",
+            "company"
+        ],
+        [
+            "Diane Hughes",
+            "PER",
+            "NuScale",
+            "ORG",
+            "company"
+        ],
+        [
+            "Eung Soo Kim",
+            "PER",
+            "SNU",
+            "ORG",
+            "company"
+        ],
+        [
+            "Nuclearelectrica",
+            "ORG",
+            "Bucharest",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Mason Baker",
+            "PER",
+            "NuScale",
+            "MISC",
+            "company"
+        ],
+        [
+            "John Hopkins",
+            "PER",
+            "Romania",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "UAMPS",
+            "ORG",
+            "NuScale",
+            "MISC",
+            "company location"
+        ],
+        [
+            "GS Energy",
+            "ORG",
+            "NuScale",
+            "MISC",
+            "company"
+        ],
+        [
+            "NuScale",
+            "ORG",
+            "Utah",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Romania",
+            "LOC",
+            "SNN",
+            "ORG",
+            "contains"
+        ],
+        [
+            "UAMPS",
+            "ORG",
+            "NuScale",
+            "MISC",
+            "company"
+        ],
+        [
+            "Doosan",
+            "ORG",
+            "NuScale",
+            "ORG",
+            "company location"
+        ],
+        [
+            "NuScale",
+            "MISC",
+            "SNU",
+            "ORG",
+            "contains"
+        ],
+        [
+            "GS Group",
+            "ORG",
+            "GS Energy",
+            "ORG",
+            "contains"
+        ],
+        [
+            "NuScale",
+            "ORG",
+            "Oregon",
+            "MISC",
+            "company location"
+        ],
+        [
+            "NuScale",
+            "ORG",
+            "Idaho",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Mason Baker",
+            "PER",
+            "UAMPS",
+            "ORG",
+            "company"
+        ],
+        [
+            "Jose Reyes",
+            "PER",
+            "NuScale",
+            "MISC",
+            "company"
+        ],
+        [
+            "John Hopkins",
+            "PER",
+            "NuScale",
+            "MISC",
+            "company"
+        ],
+        [
+            "Oregon",
+            "MISC",
+            "Portland",
+            "MISC",
+            "contains"
+        ],
+        [
+            "NuScale",
+            "ORG",
+            "London",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Mason Baker",
+            "PER",
+            "NuScale",
+            "ORG",
+            "company"
+        ],
+        [
+            "Romania",
+            "LOC",
+            "NuScale",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Wall Street",
+            "LOC",
+            "NuScale",
+            "ORG",
+            "company"
+        ]
+    ],
+    "Oak Ridge National Laboratory": [
+        [
+            "Susan Hubbard",
+            "PER",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company"
+        ],
+        [
+            "Dan Macias",
+            "PER",
+            "UCOR",
+            "ORG",
+            "company"
+        ],
+        [
+            "Bradley Nelson",
+            "PER",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company"
+        ],
+        [
+            "Nathan Felosi",
+            "PER",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company"
+        ],
+        [
+            "Oak Ridge",
+            "LOC",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Michael Smith",
+            "PER",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company"
+        ],
+        [
+            "John Canik",
+            "PER",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company"
+        ],
+        [
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "LANL",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Dan Macias",
+            "PER",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company"
+        ],
+        [
+            "Neutron Science",
+            "ORG",
+            "LANL",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Kathryn Huff",
+            "PER",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company"
+        ],
+        [
+            "Type One Energy",
+            "ORG",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Yutai Kato",
+            "PER",
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "company"
+        ],
+        [
+            "Oak Ridge National Laboratory",
+            "ORG",
+            "Bulk Shielding Reactor",
+            "MISC",
+            "contains"
+        ]
+    ],
+    "Oklo": [
+        [
+            "Altman",
+            "PER",
+            "AltC",
+            "ORG",
+            "company"
+        ],
+        [
+            "Centrus",
+            "ORG",
+            "Piketon",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Jacob DeWitte",
+            "PER",
+            "Oklo",
+            "ORG",
+            "company"
+        ],
+        [
+            "Centrus",
+            "ORG",
+            "Oklo",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Ohio",
+            "LOC",
+            "Oklo",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Altman",
+            "PER",
+            "CNBC",
+            "ORG",
+            "company"
+        ],
+        [
+            "Daniel B  Poneman",
+            "PER",
+            "Centrus",
+            "ORG",
+            "company"
+        ],
+        [
+            "Oklo",
+            "ORG",
+            "Siemens Energy",
+            "ORG",
+            "founded by"
+        ],
+        [
+            "Alex Renner",
+            "PER",
+            "Oklo",
+            "ORG",
+            "company"
+        ],
+        [
+            "Ohio",
+            "LOC",
+            "Piketon",
+            "LOC",
+            "contains"
+        ],
+        [
+            "NRC",
+            "ORG",
+            "Aurora",
+            "MISC",
+            "company"
+        ],
+        [
+            "Piketon",
+            "LOC",
+            "Centrus",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Oklo",
+            "ORG",
+            "Aurora",
+            "MISC",
+            "contains"
+        ],
+        [
+            "Tobias Panse",
+            "PER",
+            "Siemens Energy",
+            "ORG",
+            "company"
+        ],
+        [
+            "Oklo",
+            "ORG",
+            "Altman",
+            "PER",
+            "company location"
+        ],
+        [
+            "Sam Altman",
+            "PER",
+            "Oklo",
+            "ORG",
+            "company"
+        ],
+        [
+            "Oklo",
+            "ORG",
+            "Jacob DeWitte",
+            "PER",
+            "founded by"
+        ],
+        [
+            "Piketon",
+            "LOC",
+            "Oklo",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Oklo",
+            "ORG",
+            "Aurora",
+            "ORG",
+            "company location"
+        ]
+    ],
+    "TerraPower": [
+        [
+            "TerraPower",
+            "ORG",
+            "United Arab Emirates",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Chris Levesque",
+            "PER",
+            "TerraPower",
+            "ORG",
+            "company"
+        ],
+        [
+            "Chris Lebeque",
+            "PER",
+            "TerraPower",
+            "ORG",
+            "company"
+        ],
+        [
+            "Jeff Navin",
+            "PER",
+            "TerraPower",
+            "ORG",
+            "company"
+        ],
+        [
+            "Kemmerer",
+            "LOC",
+            "Naughton Power Plant",
+            "LOC",
+            "contains"
+        ],
+        [
+            "TerraPower",
+            "ORG",
+            "Bill Gates",
+            "PER",
+            "founded by"
+        ],
+        [
+            "TerraPower",
+            "ORG",
+            "Everett",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Bill Gates",
+            "PER",
+            "TerraPower",
+            "ORG",
+            "company"
+        ],
+        [
+            "TerraPower",
+            "ORG",
+            "Kemmerer",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Jeff Navin",
+            "PER",
+            "Wyoming",
+            "LOC",
+            "residence"
+        ],
+        [
+            "Wyoming",
+            "LOC",
+            "Kemmerer",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Wyoming",
+            "LOC",
+            "Natrium",
+            "ORG",
+            "contains"
+        ],
+        [
+            "TerraPower",
+            "ORG",
+            "Wilmington",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Kemmerer",
+            "LOC",
+            "TerraPower",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Natrium",
+            "ORG",
+            "Western Service Corporation",
+            "ORG",
+            "company"
+        ],
+        [
+            "TerraPower",
+            "ORG",
+            "Natrium",
+            "ORG",
+            "contains"
+        ],
+        [
+            "United Arab Emirates",
+            "LOC",
+            "Natrium",
+            "MISC",
+            "contains"
+        ],
+        [
+            "Wyoming",
+            "LOC",
+            "TerraPower",
+            "ORG",
+            "contains"
+        ],
+        [
+            "United Arab Emirates",
+            "LOC",
+            "TerraPower",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Tara Neider",
+            "PER",
+            "Natrium",
+            "ORG",
+            "company"
+        ],
+        [
+            "Washington",
+            "LOC",
+            "Everett",
+            "LOC",
+            "contains"
+        ],
+        [
+            "TerraPower",
+            "ORG",
+            "Natrium",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Centrus Energy Corp",
+            "ORG",
+            "TerraPower",
+            "ORG",
+            "company"
+        ]
+    ],
+    "ThorCon": [
+        [
+            "Laksana Tri Handoko",
+            "PER",
+            "ThorCon",
+            "ORG",
+            "company"
+        ],
+        [
+            "Indonesia",
+            "LOC",
+            "ThorCon",
+            "ORG",
+            "contains"
+        ]
+    ],
+    "Ultra Safe Nuclear Corporation": [
+        [
+            "Ultra Safe Nuclear Corporation",
+            "ORG",
+            "United Kingdom",
+            "LOC",
+            "company location"
+        ],
+        [
+            "United Kingdom",
+            "LOC",
+            "Ultra Safe Nuclear Corporation",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Vishal Patel",
+            "PER",
+            "Nuclear Propulsion",
+            "ORG",
+            "company"
+        ],
+        [
+            "Ultra Safe Nuclear Corporation",
+            "ORG",
+            "Seattle",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Michael Eades",
+            "PER",
+            "Ultra Safe Nuclear Corporation",
+            "ORG",
+            "company"
+        ],
+        [
+            "Francesco Venneri",
+            "PER",
+            "UNSC",
+            "ORG",
+            "company"
+        ],
+        [
+            "Francesco Venneri",
+            "PER",
+            "Ultra Safe Nuclear Corporation",
+            "ORG",
+            "company"
+        ],
+        [
+            "Francesco Venneri",
+            "PER",
+            "Framatome",
+            "ORG",
+            "company"
+        ],
+        [
+            "Vishal Patel",
+            "PER",
+            "Ultra Safe Nuclear Corporation",
+            "ORG",
+            "company"
+        ],
+        [
+            "Kurt Terrani",
+            "PER",
+            "Ultra Safe Nuclear Corporation",
+            "ORG",
+            "company"
+        ],
+        [
+            "PFM",
+            "ORG",
+            "Ultra Safe Nuclear Corporation",
+            "ORG",
+            "company location"
+        ]
+    ],
+    "Berkeley": [
+        [
+            "United Kingdom",
+            "LOC",
+            "Magnox",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Toby Savage",
+            "PER",
+            "Berkeley",
+            "ORG",
+            "residence"
+        ],
+        [
+            "Berkeley",
+            "LOC",
+            "Augean",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Kevin Williamson",
+            "PER",
+            "Magnox",
+            "ORG",
+            "company"
+        ],
+        [
+            "Berkeley",
+            "LOC",
+            "Magnox",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Berkeley",
+            "ORG",
+            "Magnox",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Mike Heaton",
+            "PER",
+            "Berkeley",
+            "ORG",
+            "residence"
+        ],
+        [
+            "Magnox",
+            "ORG",
+            "United Kingdom",
+            "LOC",
+            "company location"
+        ],
+        [
+            "United Kingdom",
+            "LOC",
+            "Augean",
+            "ORG",
+            "contains"
+        ],
+        [
+            "United Kingdom",
+            "LOC",
+            "Berkeley",
+            "ORG",
+            "contains"
+        ]
+    ],
+    "Westinghouse": [
+        [
+            "Ukraine",
+            "LOC",
+            "Kotin",
+            "PER",
+            "contains"
+        ],
+        [
+            "Czech Republic",
+            "LOC",
+            "KHNP",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Dukovany",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Russia",
+            "MISC",
+            "Zaporizhia",
+            "LOC",
+            "country of origin"
+        ],
+        [
+            "United Kingdom",
+            "LOC",
+            "Westinghouse",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Temelin",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "George Westinghouse",
+            "PER",
+            "founded by"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Seoul",
+            "LOC",
+            "capital"
+        ],
+        [
+            "Ontario",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Canada",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Energoatom",
+            "ORG",
+            "company location"
+        ],
+        [
+            "United States",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Loviisa",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "company location"
+        ],
+        [
+            "China",
+            "LOC",
+            "Westinghouse",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Bulgaria",
+            "LOC",
+            "Kozloduy",
+            "ORG",
+            "contains"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "KHNP",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Rita Baranwal",
+            "PER",
+            "Westinghouse",
+            "ORG",
+            "company"
+        ],
+        [
+            "China",
+            "LOC",
+            "Vogtle",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Patrick Fragman",
+            "PER",
+            "Poland",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Rivne",
+            "LOC",
+            "contains"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Fukushima",
+            "MISC",
+            "contains"
+        ],
+        [
+            "Durham",
+            "ORG",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Japan",
+            "LOC",
+            "Fukushima",
+            "MISC",
+            "contains"
+        ],
+        [
+            "Brookfield",
+            "ORG",
+            "Brookfield Renewable",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Bulgaria",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Oleh Boyaryntsev",
+            "PER",
+            "Energoatom",
+            "ORG",
+            "company"
+        ],
+        [
+            "Energoatom",
+            "ORG",
+            "Ukraine",
+            "LOC",
+            "country of origin"
+        ],
+        [
+            "Poland",
+            "LOC",
+            "Pomerania",
+            "LOC",
+            "contains"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Korea Hydro and Nuclear Power",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Cumbria",
+            "MISC",
+            "North Teesside",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Tarik Choho",
+            "PER",
+            "Westinghouse",
+            "ORG",
+            "company"
+        ],
+        [
+            "Czech Republic",
+            "LOC",
+            "Korea Hydro and Nuclear Power",
+            "ORG",
+            "contains"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Durham",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Brookfield",
+            "ORG",
+            "Westinghouse",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Czech Republic",
+            "LOC",
+            "Temelin NPP",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Energoatom",
+            "ORG",
+            "contains"
+        ],
+        [
+            "United States",
+            "MISC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Khmelnitski",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Khmelnitski",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Tarik Choho",
+            "PER",
+            "Russia",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "Belgium",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Zaporizhia",
+            "LOC",
+            "Enerhodar",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Herman Halushchenko",
+            "PER",
+            "Westinghouse",
+            "ORG",
+            "company"
+        ],
+        [
+            "Loviisa",
+            "ORG",
+            "Westinghouse",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Czech Republic",
+            "MISC",
+            "Sikela",
+            "PER",
+            "ethnicity"
+        ],
+        [
+            "Pomerania",
+            "LOC",
+            "Poland",
+            "LOC",
+            "division"
+        ],
+        [
+            "Zaporizhia",
+            "LOC",
+            "Kotin",
+            "PER",
+            "contains"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Petro Kotin",
+            "PER",
+            "Energoatom",
+            "ORG",
+            "company"
+        ],
+        [
+            "Slovakia",
+            "LOC",
+            "Westinghouse",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Finland",
+            "LOC",
+            "Loviisa",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Spain",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "David Durham",
+            "PER",
+            "Westinghouse",
+            "LOC",
+            "company"
+        ],
+        [
+            "Canada",
+            "LOC",
+            "Westinghouse",
+            "LOC",
+            "contains"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Seoul",
+            "LOC",
+            "contains division"
+        ],
+        [
+            "Bulgaria",
+            "LOC",
+            "Kozloduy",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Brookfield",
+            "ORG",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Belene",
+            "LOC",
+            "Kozloduy",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Washington",
+            "LOC",
+            "KHNP",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Aziz Dag",
+            "PER",
+            "Westinghouse",
+            "ORG",
+            "company"
+        ],
+        [
+            "David Durham",
+            "PER",
+            "Westinghouse",
+            "ORG",
+            "residence"
+        ],
+        [
+            "Herman Haluschenko",
+            "PER",
+            "Ukraine",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "KHNP",
+            "ORG",
+            "Poland",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "Mark Urso",
+            "PER",
+            "Westinghouse",
+            "ORG",
+            "company"
+        ],
+        [
+            "Poland",
+            "LOC",
+            "KHNP",
+            "ORG",
+            "contains"
+        ],
+        [
+            "United Kingdom",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Italy",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Combustion Engineering",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Mateusz Morawiecki",
+            "PER",
+            "Westinghouse",
+            "LOC",
+            "place of birth"
+        ],
+        [
+            "Paul Foster",
+            "PER",
+            "North Teesside",
+            "LOC",
+            "place of birth"
+        ],
+        [
+            "France",
+            "LOC",
+            "Temelin NPP",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Poland",
+            "LOC",
+            "Westinghouse",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Pomerania",
+            "LOC",
+            "Kopalino",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Khmelnitsky",
+            "ORG",
+            "contains"
+        ],
+        [
+            "David Durham",
+            "PER",
+            "Westinghouse",
+            "ORG",
+            "company"
+        ],
+        [
+            "United Kingdom",
+            "LOC",
+            "Ansaldo Nucleare",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Riccardo Casale",
+            "PER",
+            "Ansaldo Nucleare",
+            "ORG",
+            "company"
+        ],
+        [
+            "Seoul",
+            "LOC",
+            "South Korea",
+            "LOC",
+            "division"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Vogtle",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Patrick Fragman",
+            "PER",
+            "Westinghouse",
+            "ORG",
+            "company"
+        ],
+        [
+            "Cameco",
+            "ORG",
+            "Brookfield Renewable",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Loviisa",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Rivne",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Europe",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Jooho Whang",
+            "PER",
+            "South Korea",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "Kotin",
+            "PER",
+            "Energoatom",
+            "ORG",
+            "company"
+        ],
+        [
+            "Choczewo",
+            "LOC",
+            "Kopalino",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Ontario",
+            "LOC",
+            "Westinghouse",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Candu",
+            "MISC",
+            "contains"
+        ],
+        [
+            "Pomerania",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Energoatom",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Japan",
+            "LOC",
+            "Westinghouse",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Tarik Choho",
+            "PER",
+            "Slovakia",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "Finland",
+            "LOC",
+            "Loviisa",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Sweden",
+            "LOC",
+            "company location"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Washington",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Rivne",
+            "LOC",
+            "Dukovany",
+            "LOC",
+            "contains"
+        ],
+        [
+            "CEZ Group",
+            "ORG",
+            "Temelin NPP",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Brookfield",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Toshiba",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Paul Foster",
+            "PER",
+            "Westinghouse",
+            "LOC",
+            "company"
+        ],
+        [
+            "Saskatchewan",
+            "LOC",
+            "Cameco",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Framatome",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Energoatom",
+            "ORG",
+            "company"
+        ],
+        [
+            "Temelin",
+            "LOC",
+            "Dukovany",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Russia",
+            "MISC",
+            "Khmelnitski",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Ansaldo Nucleare",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Bulgaria",
+            "LOC",
+            "Belene",
+            "MISC",
+            "contains"
+        ],
+        [
+            "Russia",
+            "LOC",
+            "Loviisa",
+            "ORG",
+            "contains"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "China",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "David Durham",
+            "PER",
+            "Bulgaria",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "Poland",
+            "LOC",
+            "Pomerania",
+            "LOC",
+            "contains division"
+        ],
+        [
+            "Pomeranian",
+            "MISC",
+            "Choczewo",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Mateusz Morawiecki",
+            "PER",
+            "Poland",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "South Korea",
+            "LOC",
+            "Seoul",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Sasu Valkamo",
+            "PER",
+            "Loviisa",
+            "LOC",
+            "company"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Khmelnitsky",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Kotin",
+            "PER",
+            "contains"
+        ],
+        [
+            "Cockermouth",
+            "MISC",
+            "North Teesside",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Energoatom",
+            "ORG",
+            "Ukraine",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Temelin NPP",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Durham",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Dukovany",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Kozloduy",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Rosenergoatom",
+            "ORG",
+            "Zaporizhia",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Georgia",
+            "LOC",
+            "Vogtle",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Sikel",
+            "PER",
+            "contains"
+        ],
+        [
+            "Bulgaria",
+            "LOC",
+            "Belene",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Spain",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Slovak Republic",
+            "LOC",
+            "Westinghouse",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Zaporizhzhia",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Loviisa",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Fumio Kishida",
+            "PER",
+            "Fukushima",
+            "MISC",
+            "place of birth"
+        ],
+        [
+            "Poland",
+            "LOC",
+            "Westinghouse",
+            "ORG",
+            "contains"
+        ],
+        [
+            "Yoon Suk Yeol",
+            "PER",
+            "South Korea",
+            "LOC",
+            "nationality"
+        ],
+        [
+            "Poland",
+            "LOC",
+            "South Korea",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Cameco",
+            "ORG",
+            "Westinghouse",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Tim Gitzel",
+            "PER",
+            "Cameco",
+            "ORG",
+            "company"
+        ],
+        [
+            "Cameco",
+            "ORG",
+            "Brookfield",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Ukraine",
+            "LOC",
+            "Loviisa",
+            "LOC",
+            "contains"
+        ],
+        [
+            "Westinghouse",
+            "LOC",
+            "Brookfield",
+            "ORG",
+            "company location"
+        ],
+        [
+            "Westinghouse",
+            "ORG",
+            "Rivne",
+            "LOC",
+            "contains"
+        ],
+        [
+            "George Westinghouse",
+            "PER",
+            "Westinghouse",
+            "ORG",
+            "company"
+        ],
+        [
+            "Toshiba",
+            "ORG",
+            "Japan",
+            "LOC",
+            "company location"
+        ],
+        [
+            "Westinghouse",
+            "LOC",
+            "Khmelnitsky",
+            "LOC",
+            "contains"
+        ]
+    ],
+    "X-Energy": []
+}

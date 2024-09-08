@@ -1,0 +1,1318 @@
+[
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Accord-sees-mass-deployment-of-Holtec-SMRs-in-Ukra",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ukrainian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Petro Kotin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energoatom",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Jersey",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Camden",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Herman Galushchenko",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energoatom",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energoatom",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Camden",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Advanced Manufacturing",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec, Energoatom",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kiev",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Kiev",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kiev",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Kiev",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 18
+    },
+    {
+        "url": "https://www.neimagazine.com/news/holtec-plans-two-smrs-for-palisades-npp-11354887/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Palisades",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Palisades",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Palisades",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Entergy",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Palisades",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kris Singh",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Palisades",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Jersey",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oyster Creek",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 18
+    },
+    {
+        "url": "https://www.neimagazine.com/news/holtec-progressess-its-plans-for-smr-construction-9877770/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Jersey",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec Intrnational",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Camden",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec Heavy Industries",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Bakken",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Entergy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Jersey",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oyster Creek",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec International",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 17
+    },
+    {
+        "url": "https://www.neimagazine.com/news/smr-competition-heats-up-in-the-uk-10456556/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sunderland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Deeside",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tom Samson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Royce SMR",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Horizon Nuclear Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Balfour Beatty",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec International",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "North West England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moorside Clean Energy Hu",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moorside",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Balfour",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trawsfynydd",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gareth Thomas",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec Britain",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "North Carolina",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORLEN Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sean Sexstone",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "GDA",
+                    "entity": "MISC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GDA",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jacobs UK",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Carlisle",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kingmoor Park",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.neimagazine.com/news/holtec-ramps-up-smr-160-and-green-boiler-programmes-9953692/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "US",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.neimagazine.com/news/energoatom-and-holtec-to-establish-smr-manufacturing-facilities-11696360/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Jersey",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Camden",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kotin",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energoatom",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kris Singh",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.neimagazine.com/news/holtec-and-hyundai-win-korean-financial-support-for-smr-160-10831816/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Hyundai",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hee",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hyundai",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hee sung Yo",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hyundai",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hyundai",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Hee",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kris Singh",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kris Singh",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Inho Lee",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/holtec-and-hyundai-partner-with-british-companies-to-deliver-smr-technology-in-the-uk-11594510/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Hyundai",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "London",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec Britain",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joon Yoon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hyundai",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Leo Quinn",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Balfour Beatty Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cathy Travers",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Mott MacDonald",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gareth Thomas",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-palisades-npp-takes-steps-towards-possible-restart-11146922/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Palisades",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Entergy",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Palisades",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Whitmer",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kris Singh",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec International",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wolverine",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kelly Trice",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Palisades",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.neimagazine.com/news/holtec-advances-plans-for-smr-160-deployment-in-czech-republic-10122770/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Czech",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Czech",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Czech Republic",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ČEZ",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Czech Republic",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rafael Marin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Slovakia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bohunice",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rick Springman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Temelin",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.neimagazine.com/news/holtec-and-hyundai-agree-to-accelerate-the-smr-160-programme-10115947/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kris Singh",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kiewit",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Mitsubishi Electric",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Jersey",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oyster Creek",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Exelon",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oyster Creek",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kris Singh",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec International",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kris Singh",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.neimagazine.com/news/holtec-establishes-maintenance-and-modification-subsidiary-11745288/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chattanooga",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Covert",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Entergy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gretchen",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Palisades",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rick Springman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Holtec International",
+        "frequency": 12
+    }
+]

@@ -1,0 +1,1840 @@
+[
+    {
+        "url": "https://www.nucnet.org/news/small-modular-reactor-company-says-misleading-research-report-has-no-basis-in-fact-11-1-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oregon",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Portland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Diane Hughes",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Standard Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 27
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uamps-and-nuscale-cancel-plans-to-build-smrs-at-inl-11297083/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NuScale Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Oregon",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale Power",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Iceberg Research",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mason Baker",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gordon Edwards",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romanian",
+                    "entity": "MISC"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doicesti",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bulgaria",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 27
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Expansion-of-US-Korean-cooperation-on-SMRs",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Yoon Suk-ye",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "South Korean",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oregon",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Portland",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "KEXIM",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Doosan",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cambridge",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wixom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "KHNP",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "SK Group",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SK Innovation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 25
+    },
+    {
+        "url": "https://www.neimagazine.com/news/business-complications-for-smr-companies-x-energy-and-nuscale-11268599/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kam Ghaffarian",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "X",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Kaplan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ares Management Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doosan",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Standard Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale Power Modules",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 25
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nuscales-2023-financial-results-11612567/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doosan",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "RoPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Portland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oregan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oregan",
+                    "entity": "LOC"
+                },
+                "relation": "neighborhood",
+                "tail": {
+                    "word": "Portland",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 22
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nuscale-lays-off-almost-half-its-workforce-11422870/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Portland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wall Street",
+                    "entity": "LOC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ramsey Hamady",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Portland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oregan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oregan",
+                    "entity": "LOC"
+                },
+                "relation": "neighborhood",
+                "tail": {
+                    "word": "Portland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 20
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nuscale-and-entra1-technology-chosen-for-data-centres-11209975/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "RR Standard Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Maxim Serezhin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Standard Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clayton Scott",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 19
+    },
+    {
+        "url": "https://www.nucnet.org/news/nuscale-cancels-utah-small-modular-reactor-project-as-costs-increase-11-4-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NuScale Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oregon",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Portland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Uamps",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Salt Lake City",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mason Baker",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Standard Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 18
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nuscale-power-joins-romanian-atomic-forum-10884712/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dambovita County",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doicesti",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hiroshima",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cosmin Ghita",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclearelectrica",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Teodor Chirica",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Romatom",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nuclearelectrica",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Bucharest",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 17
+    },
+    {
+        "url": "https://www.neimagazine.com/news/south-korea-and-usa-boost-in-high-tech-and-energy-cooperation-including-nuclear-10798261/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Terrapower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lee Chang ya",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Korea",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 17
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/NuScale,-ORNL-to-assess-SMR-use-by-industry",
+        "triplets": [
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mickey Wade",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho Falls",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "José Reyes",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 16
+    },
+    {
+        "url": "https://www.neimagazine.com/news/seoul-national-university-opens-nuscale-power-energy-exploration-centre-11306219/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Asia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "José Reyes",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pocatello",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pocatello",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho State University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bucharest",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University Politehnica",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bucharest",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Politehnica",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "North Gyeongsang Province",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "North Gyeongsang Province",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "North Gyeongsang Province",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 16
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-supports-opening-of-nuscales-energy-exploration-centre-in-romania-10858705/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Bucharest",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Polytechnic University of Bucharest",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathleen Kavalec",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bonnie Jenkins",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Glasgow",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SNN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale and SNN",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dambovita County",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Dambovita County",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dambovita County",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doicesti",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nuclear",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cernavoda",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cernavoda",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cosmin Ghita",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "SNN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virgil Popescu",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romanian",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "NuScale Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bucharest",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nuclearelectrica",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 16
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nuscale-power-and-ornl-to-undertake-smr-assessment-11323905/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mickey Wade",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho Falls",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Sixth-NuScale-SMR-simulator-opens-in-Korea",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SNU",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Asia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "José Reyes",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Eung Soo Kim",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "SNU",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pocatello",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho State University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pocatello",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bucharest",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Bucharest",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bucharest",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Bucharest",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "North Gyeongsang Province",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "North Gyeongsang Province",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "North Gyeongsang Province",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho Falls",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.neimagazine.com/news/korea-looks-to-deploy-nuscale-smr-for-hydrogen-project-10838955/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "North Gyeongsang Province",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "North Gyeongsang Province",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "North Gyeongsang Province",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Uljin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "GS Energy",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Seoul",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seoul",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "GS Group",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GS Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Uljin County",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.neimagazine.com/news/companies-collaborate-to-promote-nuscale-smrs-in-central-and-eastern-europe-10943608/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dambovita County",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doicesti",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "SNN",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cosmin Ghitasai",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "SNN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Fluor",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Idaho-SMR-project-terminated",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NuScale Power Corporation",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho Falls",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mason Baker",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mason Baker",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nuscale-power-habboush-group-and-entra1-form-strategic-alliance-10001042/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "London",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wadie Habboush",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "HG",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NuScale",
+        "frequency": 14
+    }
+]

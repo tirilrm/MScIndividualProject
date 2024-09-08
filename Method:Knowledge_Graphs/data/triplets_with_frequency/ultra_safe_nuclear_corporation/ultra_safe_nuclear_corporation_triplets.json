@@ -1,0 +1,433 @@
+[
+    {
+        "url": "https://www.neimagazine.com/analysis/building-the-gen-iv-fuel-supply-chain-9809794/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Salt Lake City",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "PFM",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Netherlands",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Petten",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Salt Lake City",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ric Fulop",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Desktop Metal",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kurt Terrani",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 21
+    },
+    {
+        "url": "https://www.neimagazine.com/news/u-battery-personnel-join-ultra-safe-nuclears-uk-team-10713528/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "AGR",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "McMaster University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Middle East",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "North Africa",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 21
+    },
+    {
+        "url": "https://www.neimagazine.com/news/french-us-joint-venture-targets-commercial-production-of-triso-fuel-10558505/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Seattle",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chalk River",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UIUC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ala Alzaben",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-details-uk-funding-award-for-mmr-development-11030388/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jacobs",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UNSC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Karen Wiemel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Jacobs Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lappeenranta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-wins-nasa-nuclear-propulsion-contract-11242887/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Vishal Patel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Vishal Patel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC Programme Manager for Nuclear Propulsion",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Vishal Patel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Propulsion",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paolo Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC Nuclear Advanced Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michael Eades",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 12
+    }
+]

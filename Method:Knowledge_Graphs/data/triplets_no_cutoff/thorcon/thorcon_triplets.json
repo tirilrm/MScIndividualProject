@@ -1,0 +1,1011 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/molten-salt-nuclear-power-barge-proposed-for-indonesia-10446084/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bureau Veritas",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Martingale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Florida",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Okpo",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Anne Kusmayati",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ministry of Energy and Mineral Resources",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dandang Purwadi",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Laksana Tri Handoko",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BRIN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mego Pinandito",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Haendra Subekti",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BV",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 32
+    },
+    {
+        "url": "https://www.neimagazine.com/news/thorcon-to-carry-out-a-pre-licensing-consultation-for-a-500-mw-demonstration-plant-in-indonesia-10738898/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bapeten",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bapeten",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bangka",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kelasa Island",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Belitung",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kelasa Island",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Martingale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Florida",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Okpo",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dandang Purwadi",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Spanish",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Empresarios Agrupados",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gajah Mada University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sugeng Sumbarjo",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Jakarta",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 25
+    },
+    {
+        "url": "https://www.neimagazine.com/news/indonesia-to-consider-seaborgs-molten-salt-power-barge-11146951/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Compact Molten Salt Reactor",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Norway",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Aalborg",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bapeten",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CMSR",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nea-issues-supplement-to-its-smr-dashboard-11030329/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dual Fluid Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jimmy Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KAER",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "newcleo",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "NIKIE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denmark",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seaborg Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SPIC",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "IMSR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Terrestrial Energy,",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon International",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Toshiba",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/south-korea-and-denmark-to-collaborate-on-leu-fuel-salt-production-10961645/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kepco",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kepco Nuclear Fuel",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Samsung Heavy Industries",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Korean",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Choi Ik",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "KNF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kim Young",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Shin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Navid Samandari",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Terrestrial Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/japanese-investment-supports-uk-floating-npp-design-10884649/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nikkei",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orano",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Core Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Terrapower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Orano",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denmark",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/south-koreas-samsung-advances-its-plans-for-a-molten-salt-reactor-10490905/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Samsung Heavy Industries",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denmark",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Terrestrial Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/more-funding-for-us-companies-under-does-gain-programme-10451593/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Midland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US Gulf Coast",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Huntsville",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Santa Clara",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "El Segundo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/firing-up-asias-nuclear-future-9969959/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Taiwan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Taiwan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "China",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Barakah",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kori",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Shin Hanul",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bangladesh",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rooppur",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bataan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Bataan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bataan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Asia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Uzbekistan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jomart Tokayev",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Kazakhstan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Asia Pacific",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "China",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Asia Pacific",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "India",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 1
+    }
+]

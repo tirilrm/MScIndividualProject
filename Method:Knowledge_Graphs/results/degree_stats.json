@@ -1,0 +1,122 @@
+{
+    "ARC": {
+        "total_degree": 36,
+        "in_degree": 34,
+        "out_degree": 2,
+        "in/out": 17.0
+    },
+    "Babcock and Wilcox": {
+        "total_degree": 1,
+        "in_degree": 1,
+        "out_degree": 0,
+        "in/out": 0
+    },
+    "Berkeley": {
+        "total_degree": 7,
+        "in_degree": 5,
+        "out_degree": 2,
+        "in/out": 2.5
+    },
+    "BWX": {
+        "total_degree": 19,
+        "in_degree": 11,
+        "out_degree": 8,
+        "in/out": 1.375
+    },
+    "Flibe": {
+        "total_degree": 2,
+        "in_degree": 0,
+        "out_degree": 2,
+        "in/out": 0.0
+    },
+    "Framatome": {
+        "total_degree": 53,
+        "in_degree": 35,
+        "out_degree": 18,
+        "in/out": 1.9444444444444444
+    },
+    "GE Hitachi": {
+        "total_degree": 40,
+        "in_degree": 23,
+        "out_degree": 17,
+        "in/out": 1.3529411764705883
+    },
+    "General Atomics": {
+        "total_degree": 5,
+        "in_degree": 4,
+        "out_degree": 1,
+        "in/out": 4.0
+    },
+    "Holtec International": {
+        "total_degree": 46,
+        "in_degree": 28,
+        "out_degree": 18,
+        "in/out": 1.5555555555555556
+    },
+    "Kairos Power": {
+        "total_degree": 18,
+        "in_degree": 10,
+        "out_degree": 8,
+        "in/out": 1.25
+    },
+    "Moltex Energy": {
+        "total_degree": 21,
+        "in_degree": 13,
+        "out_degree": 8,
+        "in/out": 1.625
+    },
+    "NANO Nuclear": {
+        "total_degree": 4,
+        "in_degree": 4,
+        "out_degree": 0,
+        "in/out": 0
+    },
+    "NuScale": {
+        "total_degree": 44,
+        "in_degree": 30,
+        "out_degree": 14,
+        "in/out": 2.142857142857143
+    },
+    "Oak Ridge National Laboratory": {
+        "total_degree": 21,
+        "in_degree": 18,
+        "out_degree": 3,
+        "in/out": 6.0
+    },
+    "Oklo": {
+        "total_degree": 24,
+        "in_degree": 12,
+        "out_degree": 12,
+        "in/out": 1.0
+    },
+    "TerraPower": {
+        "total_degree": 36,
+        "in_degree": 18,
+        "out_degree": 18,
+        "in/out": 1.0
+    },
+    "ThorCon": {
+        "total_degree": 6,
+        "in_degree": 4,
+        "out_degree": 2,
+        "in/out": 2.0
+    },
+    "Ultra Safe Nuclear Corporation": {
+        "total_degree": 18,
+        "in_degree": 15,
+        "out_degree": 3,
+        "in/out": 5.0
+    },
+    "Westinghouse": {
+        "total_degree": 98,
+        "in_degree": 56,
+        "out_degree": 42,
+        "in/out": 1.3333333333333333
+    },
+    "X-Energy": {
+        "total_degree": 5,
+        "in_degree": 1,
+        "out_degree": 4,
+        "in/out": 0.25
+    }
+}

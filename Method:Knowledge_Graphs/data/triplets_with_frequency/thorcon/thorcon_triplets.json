@@ -1,0 +1,196 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/molten-salt-nuclear-power-barge-proposed-for-indonesia-10446084/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bureau Veritas",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Martingale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Florida",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Okpo",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Anne Kusmayati",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ministry of Energy and Mineral Resources",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dandang Purwadi",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Laksana Tri Handoko",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BRIN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mego Pinandito",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Haendra Subekti",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BV",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ThorCon",
+        "frequency": 32
+    }
+]

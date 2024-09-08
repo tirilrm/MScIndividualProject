@@ -1,0 +1,5033 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-to-evaluate-microreactor-deployment-in-wyoming-11146865/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "trona",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "WEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Steven Aumeier",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rob Creager",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wyoming Energy Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming Energy Authority",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 19
+    },
+    {
+        "url": "https://www.neimagazine.com/news/lh-industrial-and-bwxt-to-explore-microreactor-technology-for-industrial-heat-and-power-11725689/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "WEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Wandler",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Evercore Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Wandler",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "L&H Industrial",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wandler",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Marcio Paes Barreto",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Evercore Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Barreto",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Advanced Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "L&H Industrial",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Steven Aumeier",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rob Creager",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "WEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Marcio Paes Barreto",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Evercore Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-starts-production-of-triso-fuel-for-us-microreactor-10431260/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "US Department of Defense",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rex D Geve",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "James L Reuter",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-reactor-and-fuel-selected-for-darpa-space-project-11074621/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Advanced Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Lockheed Martin",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kirk Shireman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Lockheed Martin",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Bendle",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Lockheed Martin",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-announces-contract-for-naval-nuclear-reactor-fuel-11258968/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Erwin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Navy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sharon Smoot",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Naval Reactors",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Naval Reactors",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Naval Reactors",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-selected-by-us-dod-to-deliver-prototype-reactor-9772250/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Euclid",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Advanced Technologies LLC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Aerojet Rocketdyne",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Northrop Grumman",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-and-crowley-consider-microreactors-for-shipping-11174015/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Crowley Engineering Services",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Crowley",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Shiju Zacharia",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Crowley Government Solutions",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Advanced Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pevek",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "NPP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NPP",
+                    "entity": "ORG"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/uk-space-agency-funds-rolls-royce-to-develop-micro-nuclear-reactors-for-space-exploration-08-04-2024/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Steve Carlier",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls-Royce Submarines",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls-Royce",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK Space Agency",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lizzie Kerr",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joanne Oliver",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paul Bate",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UK Space Agency",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Anu Ojha",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UK Space Agency",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Griffith",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Taiwan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Singapore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Singapore",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National University of Singapore",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Singapore",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Taiwan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Iota Technology Ltd",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University of Southampton",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hall",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uk-space-agency-funding-benefits-two-nuclear-projects-11671339/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University of Leicester",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paul Bate",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UK Space Agency",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rishi Sunak",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Advanced Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Abi Clayton",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls-Royce",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "University of Leicester",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-contracted-to-support-us-haleu-production-11121866/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Chamberlin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DOE National Nuclear Security Administration",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Leido",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ATK Launch Systems",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sharon Smoot",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Nuclear Operations Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-joins-ge-vernova-nuclears-newly-established-smr-supplier-group-11733119/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario Power Generation",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH Jay",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "Unknown"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Maví Zingoni",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Vernova",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-wins-engineering-contract-from-geh-for-bwrx-300-rpv-10697051/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/molybdenum-99-to-be-produced-at-darlington-npp-9833641/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Peterborough",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jennifer Quirt",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Laurentis",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Laurentis",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Peterborough",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "North America",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Laurentis",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Candu",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-nrc-accepts-triso-xs-application-for-fuel-fabrication-facility-10451681/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Los Alamos National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bruce-power-awards-contract-to-bwxt-canada-for-mcr-project-9832176/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Myles Sullivan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "United Steelworkers",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Rencheck",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Bruce Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John MacQuarrie",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Canada",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-defense-department-expands-project-pele-to-include-x-energy-11160692/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Lisa Ferdinando",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Flickr",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Waksman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "American Nuclear Society",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Erwin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hawaii",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wakeman",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Waksman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-fuel-subsidiary-to-provide-heu-conversion-services-to-nnsa-10759763/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Erwin",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.nucnet.org/news/crowley-and-bwxt-team-up-on-ship-for-defence-and-disaster-needs-9-4-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pevek",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Chukotka",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chukotka",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.nucnet.org/news/rolls-royce-gets-funding-for-research-into-best-reactor-technologies-4-1-2024",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rishi Sunak",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Steve Carlier",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls-Royce",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Anu Ojha",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UK Space Agency",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-canadian-and-polish-companies-to-support-bwrx-300-deployment-10708358/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clarington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rafal Kasprów",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-contract-awarded-for-hanford-site-work-10779638/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hanford Site",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/haleu-demonstration-project-begins-enrichment-in-ohio-11216435/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Daniel Pone",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Turk",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nea-launches-second-edition-of-its-small-modular-reactor-dashboard-11561305/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "William D Magwood",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Carem",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Carem SM",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seadrift",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Slavutych",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pitesti",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rosatom",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-awards-contracts-for-natrium-reactor-demonstration-project-11077749/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tara Neider",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Western Service Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wright",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Curtiss",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/companies-team-up-to-build-canadas-first-smr-10560780/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ken Hartwick",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Todd Smith",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/aecon-and-es-fox-to-support-smr-development-10905149/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "ES Fox Limited",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Aecon Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Port Robinson",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cambridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Port Robinson",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNSC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Niagara Region",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ES Fox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "ES Fox",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "ES Fox",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Aecon Group",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nea-issues-supplement-to-its-smr-dashboard-11030329/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dual Fluid Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jimmy Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KAER",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "newcleo",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "NIKIE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denmark",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seaborg Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SPIC",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "IMSR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Terrestrial Energy,",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon International",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Toshiba",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/all-change-at-the-front-end-10528733/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Springfields",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Springfields",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Springfields",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cameco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Springfield",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Springfield",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Urenco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Springfields Fuels Ltd",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Grant Isaac",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Cameco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cameco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Isaac",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hope River",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seversk",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cameco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Springfields",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Isaac",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cameco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Isaac",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Isaac",
+                    "entity": "PER"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Macarthur River",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/doe-awards-integrated-tank-disposition-contract-at-the-hanford-site-11572589/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hanford",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tank Farm",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/urenco-ends-its-support-for-u-battery-advanced-reactor-10694684/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Netherlands",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Slough",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kinectrics",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Urenco",
+                    "entity": "LOC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Chater",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Battery Chief Technology Officer",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Netherlands",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Delft",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/spacenukes-partnership-wins-contract-to-develop-reactors-for-space-vehicles-11242893/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Intuitive Machines",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Houston",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Carolina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hopkins",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lockheed Martin",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Denver",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tommy Nix",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "AFRL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Earth",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nix",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "DRACO",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Earth",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Earth",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "DRACO",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kairos-power-receives-doe-funding-to-support-development-of-hermes-reactor-11554057/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/laurentis-energy-supports-synthos-and-smrs-in-poland-10093000/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Polish",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Laurentis",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "Unknown"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dominique Minière",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Laurentis Energy Partners",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rafał Kasprów",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Laurentis Energy Partners",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rafał Kasprów",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dominique Minière",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Laurentis Energy Partners",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dominique Minière",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bechtel-led-entity-to-operate-us-waste-isolation-facility-9851406/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tularosa Basin Range Services",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Amentum",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Waste Isolation Pilot Plant",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/two-polish-companies-apply-for-regulators-opinion-on-smr-technology-assessment-9849926/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "KGHM Polska Miedź",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Orlen Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Marcin Chludziński",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "KGHM Polska Miedź",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KGHM",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Canadian",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/EDF-agreements-with-Canadian,-Czech-and-Indian-fir",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "India",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jaitapur",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "India",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Maharashtra",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "India",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Maharashtra",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Maharashtra",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jaitapur",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Maharashtra",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "India",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Czech Republic",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dukovany",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Luc Rémont",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ken Hartwick",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Nuclear-central-in-Virginia-s-energy-plan",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Glenn Youngkin",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Virginia General Assembly",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Surry",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Virginia Commonwealth University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Youngkin",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Youngkin",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nasa-announces-awards-for-nuclear-power-on-the-moon-9795697/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jim Reuter",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Maryland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bethesda",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cranberry Township",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Houston",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cleveland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Glenn Research Center",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Huntsville",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Artemis",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Artemis",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Artemis",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/white-house-plans-amrs-to-power-multiple-army-bases-in-the-united-states-31-05-2024/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "United States",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "United States Army",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Catherine Harvey",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Uzbekistan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Office for Nuclear Regulation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Canadian Nuclear Safety Commission",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/finance-agreed-for-polish-smr-plans-10786532/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orlen Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "PKN Orlen",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jarosław Grodzki",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Beata Daszyńska",
+                    "entity": "PER"
+                },
+                "relation": "ethnic background",
+                "tail": {
+                    "word": "BGK",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Leszek Skiba",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Pekao",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "“Bank Pekao",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrzej Kopyrski",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lech Gałkowski",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Santander Bank Polska",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orlen Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/more-us-money-for-polish-smr-plans-10775624/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orlen Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "EXIM Bank",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Warsaw",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "PKN Orlen",
+                    "entity": "ORG"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Daniel Obajtek",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Orlen",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Obajtek",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orlen Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/polands-orlen-synthos-green-energy-seeks-formal-approval-for-smr-sites-10806865/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orlen Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dawid Jackiewicz",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OSGE",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Choczewo",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kopalino",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Auschwitz",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Stawy Monowskie",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orlen Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/major-milestone-for-bruce-powers-mcr-project-10831695/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bruce",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bruce Power",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Asset Management",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bruce Power Operations",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Todd Smith",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Bruce Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Shoreline Power Group",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/polish-regulator-gives-positive-opinion-on-bwrx-300-10884739/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNSC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rafał Kasprów",
+                    "entity": "Unknown"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sean Sexstone",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "PKN Orlen",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/opg-supports-polands-smr-plans-10932546/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mateusz Morawiecki",
+                    "entity": "PER"
+                },
+                "relation": "place of birth",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ken Hartwick",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Toronto",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "PKN Orlen",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rafał Kasprów",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OSGE",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario Power Generation",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canada-strengthens-medical-isotope-production-10983454/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CMIE",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Owen Roberts",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Hayashi",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Rencheck",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Bruce Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Rencheck",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Veronica Smith",
+                    "entity": "PER"
+                },
+                "relation": "place of birth",
+                "tail": {
+                    "word": "Saugeen Ojibway Nation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Conrad Ritchie",
+                    "entity": "PER"
+                },
+                "relation": "place of birth",
+                "tail": {
+                    "word": "Saugeen First Nation",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bruce Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "McMaster University",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/doe-awards-portsmouth-decommissioning-contract-11014860/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Carolina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Aiken",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Fluor",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Portsmouth",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pike County",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-subsidiary-awarded-contract-extension-for-uranium-down-blending-services-11520059/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kazakhstan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ulba Metallurgical Plant",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Watts Bar",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uk-funding-for-bwrx-300-11473443/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Andrew Bowie",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "SGE",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tennessee Valley Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Tennessee",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/polish-ministry-issues-positive-decision-on-smrs-despite-opposition-from-security-service-11369623/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Climate & Environment Ministry",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dubai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "OSGE",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dubai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Management Board",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWRX-300",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "PKN Orlen",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "OSGE",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "OSGE",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "OSGE",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Business Insider",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "ABW",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Business Insider",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Polish",
+                    "entity": "MISC"
+                },
+                "relation": "industry",
+                "tail": {
+                    "word": "OSGE",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pomerania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Konin",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/novel-fuels-set-for-growth-11354780/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Germany",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dan Leistikow",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Zheleznogorsk",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ulyanovsk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dimitrovgrad",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNNC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/growing-uncertainty-in-us-regarding-economics-of-new-nuclear-11347683/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fitch",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Manchin",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "US",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Manchin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US Senate Energy & Natural Resources Committee",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "HALEU",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John C Wagner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Chinese",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeffrey S Merrifield",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NRC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Southern Company",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Vogtle",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/edf-signs-co-operation-agreements-with-canada-czech-republic-and-indian-11337777/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Paris",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Luc Rémont",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ken Hartwick",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Czech",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dukovany 5",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "India",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Maharashtra",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "India",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Maharashtra",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Maharashtra",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "India",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "India",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jaitapur",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "India",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jaitapur",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/veolia-nuclear-solutions-wins-doe-ohio-cleanup-contract-11066872/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Portsmouth Gaseous Diffusion Plant",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christine Lucas Lamouroux",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Veolia Nuclear Solutions",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 1
+    }
+]

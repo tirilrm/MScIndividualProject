@@ -1,0 +1,1177 @@
+{
+    "ARC": {
+        "all": {
+            "PER": 848,
+            "ORG": 624,
+            "LOC": 637,
+            "MISC": 109,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2218
+        },
+        "depth=1": {
+            "PER": 14,
+            "ORG": 4,
+            "LOC": 16,
+            "MISC": 2,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 36
+        },
+        "depth=2": {
+            "PER": 65,
+            "ORG": 74,
+            "LOC": 54,
+            "MISC": 12,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 205
+        },
+        "depth=3": {
+            "PER": 335,
+            "ORG": 167,
+            "LOC": 185,
+            "MISC": 35,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 722
+        },
+        "depth=4": {
+            "PER": 454,
+            "ORG": 275,
+            "LOC": 350,
+            "MISC": 55,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1134
+        },
+        "depth=5": {
+            "PER": 589,
+            "ORG": 377,
+            "LOC": 481,
+            "MISC": 72,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1519
+        }
+    },
+    "Babcock and Wilcox": {
+        "all": {
+            "PER": 1,
+            "ORG": 2,
+            "LOC": 1,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 4
+        },
+        "depth=1": {
+            "PER": 1,
+            "ORG": 1,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2
+        },
+        "depth=2": {
+            "PER": 1,
+            "ORG": 1,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2
+        },
+        "depth=3": {
+            "PER": 1,
+            "ORG": 1,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2
+        },
+        "depth=4": {
+            "PER": 1,
+            "ORG": 1,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2
+        },
+        "depth=5": {
+            "PER": 1,
+            "ORG": 1,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2
+        }
+    },
+    "Berkeley": {
+        "all": {
+            "PER": 833,
+            "ORG": 617,
+            "LOC": 617,
+            "MISC": 105,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2172
+        },
+        "depth=1": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 1,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 6
+        },
+        "depth=2": {
+            "PER": 15,
+            "ORG": 33,
+            "LOC": 13,
+            "MISC": 4,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 65
+        },
+        "depth=3": {
+            "PER": 165,
+            "ORG": 74,
+            "LOC": 87,
+            "MISC": 16,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 342
+        },
+        "depth=4": {
+            "PER": 271,
+            "ORG": 143,
+            "LOC": 154,
+            "MISC": 27,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 595
+        },
+        "depth=5": {
+            "PER": 396,
+            "ORG": 236,
+            "LOC": 288,
+            "MISC": 51,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 971
+        }
+    },
+    "BWX": {
+        "all": {
+            "PER": 846,
+            "ORG": 625,
+            "LOC": 623,
+            "MISC": 106,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2200
+        },
+        "depth=1": {
+            "PER": 4,
+            "ORG": 7,
+            "LOC": 5,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 16
+        },
+        "depth=2": {
+            "PER": 24,
+            "ORG": 47,
+            "LOC": 51,
+            "MISC": 8,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 130
+        },
+        "depth=3": {
+            "PER": 50,
+            "ORG": 99,
+            "LOC": 113,
+            "MISC": 17,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 279
+        },
+        "depth=4": {
+            "PER": 128,
+            "ORG": 178,
+            "LOC": 229,
+            "MISC": 36,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 571
+        },
+        "depth=5": {
+            "PER": 247,
+            "ORG": 276,
+            "LOC": 359,
+            "MISC": 56,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 938
+        }
+    },
+    "Elysium": {
+        "all": {
+            "PER": 0,
+            "ORG": 0,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 0
+        }
+    },
+    "Flibe": {
+        "all": {
+            "PER": 830,
+            "ORG": 616,
+            "LOC": 618,
+            "MISC": 105,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2169
+        },
+        "depth=1": {
+            "PER": 0,
+            "ORG": 2,
+            "LOC": 1,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 3
+        },
+        "depth=2": {
+            "PER": 0,
+            "ORG": 4,
+            "LOC": 1,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 5
+        },
+        "depth=3": {
+            "PER": 0,
+            "ORG": 4,
+            "LOC": 1,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 5
+        },
+        "depth=4": {
+            "PER": 0,
+            "ORG": 4,
+            "LOC": 1,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 5
+        },
+        "depth=5": {
+            "PER": 0,
+            "ORG": 4,
+            "LOC": 1,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 5
+        }
+    },
+    "Framatome": {
+        "all": {
+            "PER": 854,
+            "ORG": 628,
+            "LOC": 622,
+            "MISC": 105,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2209
+        },
+        "depth=1": {
+            "PER": 18,
+            "ORG": 15,
+            "LOC": 16,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 49
+        },
+        "depth=2": {
+            "PER": 106,
+            "ORG": 129,
+            "LOC": 169,
+            "MISC": 20,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 424
+        },
+        "depth=3": {
+            "PER": 263,
+            "ORG": 269,
+            "LOC": 343,
+            "MISC": 46,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 921
+        },
+        "depth=4": {
+            "PER": 415,
+            "ORG": 378,
+            "LOC": 440,
+            "MISC": 65,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1298
+        },
+        "depth=5": {
+            "PER": 599,
+            "ORG": 432,
+            "LOC": 500,
+            "MISC": 82,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1613
+        }
+    },
+    "GE Hitachi": {
+        "all": {
+            "PER": 837,
+            "ORG": 619,
+            "LOC": 617,
+            "MISC": 106,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2179
+        },
+        "depth=1": {
+            "PER": 4,
+            "ORG": 12,
+            "LOC": 14,
+            "MISC": 4,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 34
+        },
+        "depth=2": {
+            "PER": 63,
+            "ORG": 109,
+            "LOC": 87,
+            "MISC": 18,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 277
+        },
+        "depth=3": {
+            "PER": 244,
+            "ORG": 191,
+            "LOC": 207,
+            "MISC": 39,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 681
+        },
+        "depth=4": {
+            "PER": 369,
+            "ORG": 311,
+            "LOC": 359,
+            "MISC": 67,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1106
+        },
+        "depth=5": {
+            "PER": 550,
+            "ORG": 391,
+            "LOC": 463,
+            "MISC": 81,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1485
+        }
+    },
+    "General Atomics": {
+        "all": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 3,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 9
+        },
+        "depth=1": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 1,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 6
+        },
+        "depth=2": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 1,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 7
+        },
+        "depth=3": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 1,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 7
+        },
+        "depth=4": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 1,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 7
+        },
+        "depth=5": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 1,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 7
+        }
+    },
+    "HolosGen": {
+        "all": {
+            "PER": 0,
+            "ORG": 0,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 0
+        }
+    },
+    "Holtec International": {
+        "all": {
+            "PER": 830,
+            "ORG": 616,
+            "LOC": 617,
+            "MISC": 105,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2168
+        },
+        "depth=1": {
+            "PER": 10,
+            "ORG": 6,
+            "LOC": 16,
+            "MISC": 3,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 35
+        },
+        "depth=2": {
+            "PER": 70,
+            "ORG": 80,
+            "LOC": 100,
+            "MISC": 16,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 266
+        },
+        "depth=3": {
+            "PER": 235,
+            "ORG": 170,
+            "LOC": 221,
+            "MISC": 33,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 659
+        },
+        "depth=4": {
+            "PER": 423,
+            "ORG": 309,
+            "LOC": 368,
+            "MISC": 67,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1167
+        },
+        "depth=5": {
+            "PER": 538,
+            "ORG": 384,
+            "LOC": 462,
+            "MISC": 77,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1461
+        }
+    },
+    "Hyperion Power": {
+        "all": {
+            "PER": 0,
+            "ORG": 0,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 0
+        }
+    },
+    "Kairos Power": {
+        "all": {
+            "PER": 836,
+            "ORG": 619,
+            "LOC": 618,
+            "MISC": 107,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2180
+        },
+        "depth=1": {
+            "PER": 5,
+            "ORG": 5,
+            "LOC": 4,
+            "MISC": 3,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 17
+        },
+        "depth=2": {
+            "PER": 7,
+            "ORG": 18,
+            "LOC": 13,
+            "MISC": 5,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 43
+        },
+        "depth=3": {
+            "PER": 11,
+            "ORG": 34,
+            "LOC": 35,
+            "MISC": 11,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 91
+        },
+        "depth=4": {
+            "PER": 30,
+            "ORG": 119,
+            "LOC": 140,
+            "MISC": 26,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 315
+        },
+        "depth=5": {
+            "PER": 81,
+            "ORG": 235,
+            "LOC": 299,
+            "MISC": 49,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 664
+        }
+    },
+    "Moltex Energy": {
+        "all": {
+            "PER": 830,
+            "ORG": 616,
+            "LOC": 617,
+            "MISC": 105,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2168
+        },
+        "depth=1": {
+            "PER": 9,
+            "ORG": 4,
+            "LOC": 7,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 21
+        },
+        "depth=2": {
+            "PER": 40,
+            "ORG": 60,
+            "LOC": 51,
+            "MISC": 12,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 163
+        },
+        "depth=3": {
+            "PER": 193,
+            "ORG": 126,
+            "LOC": 135,
+            "MISC": 25,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 479
+        },
+        "depth=4": {
+            "PER": 293,
+            "ORG": 210,
+            "LOC": 240,
+            "MISC": 46,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 789
+        },
+        "depth=5": {
+            "PER": 404,
+            "ORG": 314,
+            "LOC": 391,
+            "MISC": 66,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1175
+        }
+    },
+    "NANO Nuclear": {
+        "all": {
+            "PER": 830,
+            "ORG": 616,
+            "LOC": 617,
+            "MISC": 105,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2168
+        },
+        "depth=1": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 5
+        },
+        "depth=2": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 5
+        },
+        "depth=3": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 5
+        },
+        "depth=4": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 5
+        },
+        "depth=5": {
+            "PER": 3,
+            "ORG": 2,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 5
+        }
+    },
+    "NuScale": {
+        "all": {
+            "PER": 852,
+            "ORG": 633,
+            "LOC": 624,
+            "MISC": 109,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2218
+        },
+        "depth=1": {
+            "PER": 16,
+            "ORG": 13,
+            "LOC": 10,
+            "MISC": 3,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 42
+        },
+        "depth=2": {
+            "PER": 55,
+            "ORG": 78,
+            "LOC": 50,
+            "MISC": 14,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 197
+        },
+        "depth=3": {
+            "PER": 257,
+            "ORG": 137,
+            "LOC": 139,
+            "MISC": 30,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 563
+        },
+        "depth=4": {
+            "PER": 397,
+            "ORG": 265,
+            "LOC": 302,
+            "MISC": 52,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1016
+        },
+        "depth=5": {
+            "PER": 561,
+            "ORG": 392,
+            "LOC": 444,
+            "MISC": 80,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1477
+        }
+    },
+    "Oak Ridge National Laboratory": {
+        "all": {
+            "PER": 852,
+            "ORG": 628,
+            "LOC": 631,
+            "MISC": 108,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2219
+        },
+        "depth=1": {
+            "PER": 12,
+            "ORG": 3,
+            "LOC": 3,
+            "MISC": 2,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 20
+        },
+        "depth=2": {
+            "PER": 13,
+            "ORG": 5,
+            "LOC": 4,
+            "MISC": 2,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 24
+        },
+        "depth=3": {
+            "PER": 19,
+            "ORG": 8,
+            "LOC": 9,
+            "MISC": 3,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 39
+        },
+        "depth=4": {
+            "PER": 52,
+            "ORG": 21,
+            "LOC": 27,
+            "MISC": 4,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 104
+        },
+        "depth=5": {
+            "PER": 114,
+            "ORG": 36,
+            "LOC": 50,
+            "MISC": 7,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 207
+        }
+    },
+    "Oklo": {
+        "all": {
+            "PER": 838,
+            "ORG": 620,
+            "LOC": 619,
+            "MISC": 107,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2184
+        },
+        "depth=1": {
+            "PER": 7,
+            "ORG": 8,
+            "LOC": 6,
+            "MISC": 2,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 23
+        },
+        "depth=2": {
+            "PER": 16,
+            "ORG": 15,
+            "LOC": 9,
+            "MISC": 4,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 44
+        },
+        "depth=3": {
+            "PER": 34,
+            "ORG": 27,
+            "LOC": 22,
+            "MISC": 6,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 89
+        },
+        "depth=4": {
+            "PER": 76,
+            "ORG": 40,
+            "LOC": 42,
+            "MISC": 10,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 168
+        },
+        "depth=5": {
+            "PER": 209,
+            "ORG": 102,
+            "LOC": 94,
+            "MISC": 20,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 425
+        }
+    },
+    "StarCore Nuclear": {
+        "all": {
+            "PER": 0,
+            "ORG": 0,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 0
+        }
+    },
+    "TerraPower": {
+        "all": {
+            "PER": 844,
+            "ORG": 627,
+            "LOC": 627,
+            "MISC": 110,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2208
+        },
+        "depth=1": {
+            "PER": 7,
+            "ORG": 11,
+            "LOC": 10,
+            "MISC": 2,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 30
+        },
+        "depth=2": {
+            "PER": 41,
+            "ORG": 45,
+            "LOC": 54,
+            "MISC": 15,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 155
+        },
+        "depth=3": {
+            "PER": 166,
+            "ORG": 123,
+            "LOC": 139,
+            "MISC": 28,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 456
+        },
+        "depth=4": {
+            "PER": 408,
+            "ORG": 277,
+            "LOC": 296,
+            "MISC": 50,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1031
+        },
+        "depth=5": {
+            "PER": 555,
+            "ORG": 398,
+            "LOC": 460,
+            "MISC": 77,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1490
+        }
+    },
+    "Terrestial": {
+        "all": {
+            "PER": 0,
+            "ORG": 0,
+            "LOC": 0,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 0
+        }
+    },
+    "ThorCon": {
+        "all": {
+            "PER": 836,
+            "ORG": 622,
+            "LOC": 617,
+            "MISC": 106,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2181
+        },
+        "depth=1": {
+            "PER": 1,
+            "ORG": 2,
+            "LOC": 2,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 6
+        },
+        "depth=2": {
+            "PER": 6,
+            "ORG": 8,
+            "LOC": 3,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 18
+        },
+        "depth=3": {
+            "PER": 13,
+            "ORG": 25,
+            "LOC": 32,
+            "MISC": 7,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 77
+        },
+        "depth=4": {
+            "PER": 29,
+            "ORG": 86,
+            "LOC": 108,
+            "MISC": 21,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 244
+        },
+        "depth=5": {
+            "PER": 44,
+            "ORG": 163,
+            "LOC": 217,
+            "MISC": 33,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 457
+        }
+    },
+    "Ultra Safe Nuclear Corporation": {
+        "all": {
+            "PER": 19,
+            "ORG": 19,
+            "LOC": 19,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 58
+        },
+        "depth=1": {
+            "PER": 7,
+            "ORG": 6,
+            "LOC": 5,
+            "MISC": 0,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 18
+        },
+        "depth=2": {
+            "PER": 7,
+            "ORG": 7,
+            "LOC": 7,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 22
+        },
+        "depth=3": {
+            "PER": 7,
+            "ORG": 7,
+            "LOC": 7,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 22
+        },
+        "depth=4": {
+            "PER": 7,
+            "ORG": 7,
+            "LOC": 7,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 22
+        },
+        "depth=5": {
+            "PER": 7,
+            "ORG": 7,
+            "LOC": 7,
+            "MISC": 1,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 22
+        }
+    },
+    "Westinghouse": {
+        "all": {
+            "PER": 881,
+            "ORG": 654,
+            "LOC": 644,
+            "MISC": 110,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2289
+        },
+        "depth=1": {
+            "PER": 20,
+            "ORG": 27,
+            "LOC": 29,
+            "MISC": 4,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 80
+        },
+        "depth=2": {
+            "PER": 116,
+            "ORG": 117,
+            "LOC": 119,
+            "MISC": 20,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 372
+        },
+        "depth=3": {
+            "PER": 381,
+            "ORG": 270,
+            "LOC": 322,
+            "MISC": 49,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1022
+        },
+        "depth=4": {
+            "PER": 564,
+            "ORG": 385,
+            "LOC": 448,
+            "MISC": 79,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1476
+        },
+        "depth=5": {
+            "PER": 626,
+            "ORG": 436,
+            "LOC": 500,
+            "MISC": 87,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 1649
+        }
+    },
+    "X-Energy": {
+        "all": {
+            "PER": 830,
+            "ORG": 616,
+            "LOC": 617,
+            "MISC": 105,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 2168
+        },
+        "depth=1": {
+            "PER": 1,
+            "ORG": 1,
+            "LOC": 2,
+            "MISC": 2,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 6
+        },
+        "depth=2": {
+            "PER": 7,
+            "ORG": 66,
+            "LOC": 57,
+            "MISC": 11,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 141
+        },
+        "depth=3": {
+            "PER": 21,
+            "ORG": 125,
+            "LOC": 128,
+            "MISC": 24,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 298
+        },
+        "depth=4": {
+            "PER": 36,
+            "ORG": 205,
+            "LOC": 221,
+            "MISC": 41,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 503
+        },
+        "depth=5": {
+            "PER": 53,
+            "ORG": 279,
+            "LOC": 338,
+            "MISC": 58,
+            "Unknown": 0,
+            "Other": 0,
+            "Total": 728
+        }
+    }
+}

@@ -1,0 +1,64 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/more-funding-for-us-companies-under-does-gain-programme-10451593/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Midland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US Gulf Coast",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Huntsville",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Santa Clara",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "El Segundo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Elysium",
+        "frequency": 1
+    }
+]

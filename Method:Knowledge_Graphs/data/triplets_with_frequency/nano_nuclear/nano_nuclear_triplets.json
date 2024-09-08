@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/nano-plans-fuel-fabrication-plant-at-idaho-national-laboratory-11096442/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jay Jiang Yu",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NANO",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NANO Nuclear",
+        "frequency": 13
+    }
+]

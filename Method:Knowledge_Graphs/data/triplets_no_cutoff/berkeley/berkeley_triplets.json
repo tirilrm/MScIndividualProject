@@ -1,0 +1,1906 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/first-concrete-box-of-radioactive-waste-safely-transferred-from-berkeley-npp-10531964/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Magnox Ltd",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox Ltd",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Heaton",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/berkeley-decommissioning-to-begin-five-decades-ahead-of-schedule-10852784/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Altrad",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Celadon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kevin Williamson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Augean",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Augean",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/rolls-royce-visits-two-potential-uk-sites-for-its-first-smrs-10523038/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Welsh",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trawsfynydd",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Welsh Government",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trawsfynydd",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Horizon Nuclear Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Berkeley Estate",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Toby Savage",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David White",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Laing O'Rourke",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "National",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uk-poland-agreement-brings-rolls-royce-smr-deployment-a-step-closer-11597859/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Swietokrzyskie",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gloucestershire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gloucester Science & Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Western Gateway",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University of Bristol",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gloucestershire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gloucester Science & Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Czech Republic",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/UK-Polish-partnership-for-SMR-deployment-in-Poland",
+        "triplets": [
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gloucestershire",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "CVG",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Warsaw",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Szczepan Ruman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Chiltern Vital Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Szczepan Ruman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Industria",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "CVG",
+                    "entity": "ORG"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Great Britain",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Turner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "CVG",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alan Woods",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls-Royce",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/deep-thought-on-disposal-10145177/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "National",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nagra",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jura Ost",
+                    "entity": "LOC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Zürich",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jura Ost, Nördlich Lägern",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Zürich",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nördlich Lägern",
+                    "entity": "LOC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Zürich",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nördlich Lägern and Zürich Nordost",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Zürich",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Zürich",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nördlich Lägern and Zürich Nordost",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tim Vietor",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nagra Executive Board",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nördlich Lägern",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nagra",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canton Zürich",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Zurich",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nördlich Lägern",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nagra",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Matthias Braun",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nagra",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canton Zürich",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Stadel",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nagra",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Zwilag",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canton Aargau",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Würenlingen",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Los Alamos",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sandia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "LianGe Zheng",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Berkeley Lab",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nagra",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Switzerland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Grimsel",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oakville",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oakville",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ignace",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pacific",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Elizabeth Muller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Deep Isolation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "France Cigéo",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cigéo",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Andra",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Meuse",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Marne",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sweden",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Östhammar Municipality",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sweden",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oskarshamn",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Johan Dasht",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Sweden",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/rolls-royce-smr-prioritises-four-nda-sites-for-new-nuclear-10284448/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sellafield",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trawsfynydd",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Peattie",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "England",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wylfa",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oldbury",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Horizon Nuclear Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Berkeley Estate",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hartlepool NPP",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "EDF Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bristol",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/mit-and-co-researchers-devise-new-tool-for-testing-reactor-components-10515641/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Saudi Arabia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Abdullah University of Science and Technology",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/rd-set-to-minimise-waste-volumes-9865389/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Andrew K. Hoffman",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Research",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "James Saal",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Citrine",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Orano Federal Services",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Orano",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dorothy Davidson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Orano FS",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Jersey",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rutgers University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New York",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Stony Brook University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lawrence Berkeley National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "MISC"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rensselaer Polytechnic Institute",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/polish-government-endorses-proposal-to-deploy-rolls-royce-smrs-11725779/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Polish",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Polish",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Central Hydrogen Cluster",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hennig",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Kloska",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Szczepan Ruman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Industria Management Board",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chiltern Vital Group",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gloucestershire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Berkeley Magnox NPP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Rolls-",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/20bn-clean-energy-reset-using-carbon-capture-and-smrs-expected-in-the-budget-13-03-2023/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Treasury",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Biden",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hunt",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Humberside",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Aberdeenshire",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/spring-budget-2023-government-reclassifies-nuclear-energy-to-boost-investment-15-03-2023/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hunt",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell C",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trawsfynydd",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Anglesey",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uk-details-strategy-for-nuclear-waste-management-10794613/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "David Peattie",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NDA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Peattie",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NDA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sellafield",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox Reprocessing Plant",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dounreay",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dounreay Fast Reactor",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dounreay",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Vulcan",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/rollys-royce-small-modular-reactor-design-passes-first-assessment-hurdle-04-04-2023/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Pynn",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rob Exley",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Great Britain",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paul Gibson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Natural Resources Wales",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/great-british-nuclear-launched-with-smr-competition-and-157m-nuclear-funding-package-18-07-2023/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GBN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gwen Parry",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GBN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Bowie",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Simon Bowen",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GBN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sizewell",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jess Ralston",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy and Climate Intelligence Unit",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Conboy",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Atkins",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mustafa Latif",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BDB Pitmans",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alan Sinclair",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Turner & Townsend",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Leo Quinn",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Balfour Beatty Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-national-ignition-facility-achieve-fusion-ignition-10439194/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "LLNL",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "National Ignition Facility",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/a-look-at-the-projects-being-brought-forward-by-great-british-nuclear-24-07-2023/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Bam Nuttall",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Newcleo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Springfields Fuels",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Suffolk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Suffolk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Somerset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Industria-and-Rolls-Royce-SMR-plans-hit-ministeria",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Paulina Hennig",
+                    "entity": "Unknown"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Szczepan Ruman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Industria",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chiltern Vital Group",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Industria",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gloucestershire",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.nucnet.org/news/government-announces-gbp157-million-in-grants-as-part-of-massive-revival-of-nuclear-energy-industry-7-2-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Grant Shapps",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Vladimir",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sizewell",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Torness",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Suffolk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 1
+    }
+]

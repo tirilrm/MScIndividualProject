@@ -1,0 +1,536 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/arc-clean-technology-signs-agreement-on-deployment-of-smrs-in-alberta-10708319/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Belledune Port Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "William Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Clean Technology Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rick Christiaanse",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "X-Energy Canada",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 23
+    },
+    {
+        "url": "https://www.neimagazine.com/news/khnp-to-collaborate-with-canadian-firms-on-smr-deployment-11745205/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Georgia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Atlanta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generating Station",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau NPP",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jooho Whang",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KHNP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 19
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canadian-companies-to-collaborate-with-khnp-on-smrs-11347658/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Point Lepreau",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generating Station",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Canadian Nuclear Safety Commission",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KHNP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "United Arab Emirates",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "United Arab Emirates",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saint John",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jooho Whang",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "KHNP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Clean Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 17
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Partnership-for-ARC-100-commercialisation",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Korea Hydro & Nuclear Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Georgia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Atlanta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jooho Whang",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KHNP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Clean Technology Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 14
+    }
+]

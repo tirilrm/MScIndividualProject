@@ -1,0 +1,2160 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/oklo-announces-merger-with-acquisition-company-altc-11005073/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fortune",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NRC",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sam Altman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Altman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "AltC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Altman",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Altman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "CNBC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Altman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "CNBC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 24
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-and-centrus-strengthen-cooperation-on-advanced-reactors-and-fuel-11112433/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Daniel B. Poneman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 19
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-makes-siemens-energy-preferred-supplier-for-advanced-reactors-11405963/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tobias Panse",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Siemens Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alex Renner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Siemens Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Monju",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 17
+    },
+    {
+        "url": "https://www.neimagazine.com/news/altc-acquisition-shareholders-approve-merger-with-oklo-11757694/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Sam Altman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michael Klein",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "AltC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Caroline Cochran",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Jansen",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "United States Marine Corps",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Richard Kinzley",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Black Hills Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Wright",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Liberty Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 16
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-seeks-licence-for-fuel-recycling-facility-10548091/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Argonne National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "LLP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-firms-up-mmr-siting-agreement-and-receives-approval-for-fuel-fabrication-facility-11494087/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Portsmouth",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Portsmouth Gaseous Diffusion Plant",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Aurora Fuel Fabrication Facility",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.neimagazine.com/news/two-more-sites-agreed-for-oklo-mmr-10878676/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Portsmouth",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Portsmouth Gaseous Diffusion Plant",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NRC",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/supply-chain/oklo-secures-contract-to-supply-nuclear-power-to-wyoming-hyperscales-data-centre-campus/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "PER"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Trenton Thornock",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Wyoming Hyperscale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/diamondback-energy-to-purchase-energy-from-oklo-smrs-11677739/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Midland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-restarts-nrc-licensing-process-for-aurora-microreactor-10031725/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-and-anl-complete-second-theta-testing-campaign-11612619/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "THETA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Argonne",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Patrick Everett",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-microreactors-considered-for-alaskan-military-base-11122089/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fairbanks",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Department of Energy",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Air Force Office of Energy Assurance",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Air Force",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nancy Balkus",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Air Force",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo Inc",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Eielson",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Eielson Airforce Base",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Eielson Air Force Base",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-selected-for-us-doe-project-to-enable-recycling-of-used-fuel-10260298/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-military-withdraws-offer-to-oklo-for-microreactor-11317824/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fairbanks",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Eielson Air Force Base",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michelle McCaskill",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DLA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jake DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mary Woollen",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DLA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fairbanks",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-seeks-to-make-haleu-from-ebr-ii-used-fuel-11121968/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "American",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/rd-set-to-minimise-waste-volumes-9865389/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Andrew K. Hoffman",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Research",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "James Saal",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Citrine",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Orano Federal Services",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Orano",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dorothy Davidson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Orano FS",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Jersey",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rutgers University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New York",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Stony Brook University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lawrence Berkeley National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "MISC"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rensselaer Polytechnic Institute",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/more-funding-for-us-companies-under-does-gain-programme-10451593/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Midland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US Gulf Coast",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Huntsville",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Santa Clara",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "El Segundo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/argonne-national-lab-supports-advanced-nuclear-concepts-10574308/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Radiant Industries",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Radiant",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Doug Bernauer",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Doug Bernauer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Radiant",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Argonne",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Darius Lisowski",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ANL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Melissa Rose",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ANL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe Energy",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rose",
+                    "entity": "PER"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Argonne",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Argonne",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/three-companies-awarded-gain-vouchers-by-us-doe-to-advance-nuclear-technologies-11622817/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cheyenne",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cheyenne",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Santa Clara",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/advanced-reactorsfusion/idaho-national-laboratorys-future-focus-11710931/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jess C. Gehin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Science & Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "General Electric",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Holtec-unveils-hybrid-nuclear-solar-power-plant-de",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kris Singh",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo Inc",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "California",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/smr-development-tracked-by-nea-and-iaea-studies-10691068/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC Clean Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM25",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM (CNEA",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNEA",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CGN",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNCC",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls Royce",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Akademik Lomonosov",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BREST",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "eVinci",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuward",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/inl-sees-market-for-microreactors-in-some-us-states-10884680/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "John Jackson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DOE Office of Nuclear Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/growing-uncertainty-in-us-regarding-economics-of-new-nuclear-11347683/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fitch",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Manchin",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "US",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Manchin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US Senate Energy & Natural Resources Committee",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "HALEU",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John C Wagner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Chinese",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeffrey S Merrifield",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NRC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Southern Company",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Vogtle",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/global-smr-buildout-needs-a-new-marshall-plan-11398436/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Nuclear Watch Institute",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "London",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "London",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Nuclear Watch Institute",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Asia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "China",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/smr-buildout-needs-a-new-marshall-plan-11618552/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Chukotka",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Akademik Lomonosov",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Nuclear Watch Institute",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "London",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chukotka",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Asia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "China",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/haleu-demonstration-project-begins-enrichment-in-ohio-11216435/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Daniel Pone",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Turk",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 1
+    }
+]

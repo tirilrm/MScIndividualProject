@@ -1,0 +1,1448 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/general-atomics-announces-plans-for-fusion-pilot-plant-10122682/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Anantha Krishnan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "General Atomics Energy Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wayne Solomon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brian Grierson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/uprating-triga-fuel-production-10362147/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Miha Meglic",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Unsplash",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "US DOE",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romans",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/general-atomics-to-develop-silicon-carbide-materials-for-fusion-power-plants-11483120/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Scott Forney",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "EMS",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brian Grierson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cadarache",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/general-atomics-progresses-nuclear-thermal-propulsion-system-design-10355066/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Scott Forney",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "EMS",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christina Back",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Technologies and Materials",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christina Back",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Technologies and Materials",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christina Back",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Technologies and Materials",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/framatome-fabricates-fuel-element-for-us-triga-research-reactors-10677166/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "France",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Isère",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "CERCA",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "François Gau",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/record-breaking-run-for-diii-d-national-fusion-facility-11007013/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ITER",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Morgan Shafer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Theresa Wilks",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MIT PSFC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.nucnet.org/news/triga-jv-wins-contract-to-fabricate-fuel-for-us-doe-s-marvel-12-3-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Grenoble",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Romans",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Isère",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Isère",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/triga-international-to-supply-fuel-for-marvel-microreactor-11359427/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TRIGA International",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/triso-x-tests-fuel-for-nuclear-thermal-space-applications-10682655/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Marshall Space Flight Centre",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fuel Fabrication Facility",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TRISO-X",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/general-atomics-and-tokamak-energy-to-collaborate-on-advancing-high-temperature-superconducting-magnet-technologies-10911684/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Warrick Matthews",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Tokamak Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/penn-state-receives-first-triga-fuel-shipment-in-10-years-11199316/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "TRIGA International",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Penn State University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Breazeale Reactor",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Read",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Penn State",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.nucnet.org/news/fuel-fabrication-begins-for-marvel-with-plant-scheduled-to-be-online-in-2027-2-1-2024",
+        "triplets": [
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Grenoble",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kyoto-fusioneering-to-supply-advanced-gyrotron-systems-to-general-atomics-11356718/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Keishi Sakamoto",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kyoto Fusioneering",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Richard Buttery",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Kyoto",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kyoto Fusioneering",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Seattle",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/upgraded-diii-d-fusion-facility-set-to-restart-operations/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "General Atomics",
+                    "entity": "LOC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ITER",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/enec-and-general-atomics-to-collaborate-on-integrating-advanced-materials-with-nuclear-technologies-11633108/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mohamed Al Hammadi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.nucnet.org/news/french-company-produces-first-triga-fuel-element-in-a-decade-3-5-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romans",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Slovenia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jozef Stefan Institute",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-national-ignition-facility-achieve-fusion-ignition-10439194/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "LLNL",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "National Ignition Facility",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/pppl-develops-instrument-to-better-control-fusion-reactions-11735704/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Laszlo Horvath",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "PPPL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alessandro Bortolon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "PPPL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Mauzey",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "San Diego State University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mauze",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ALPACA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Florian Laggner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "North Carolina State University",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/advanced-reactorsfusion/idaho-national-laboratorys-future-focus-11710931/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jess C. Gehin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Science & Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "General Electric",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/more-doe-awards-for-nuclear-technologies-10842425/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "General Electric",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Niskayuna",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cranberry Township",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Westinghouse Electric Company",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Charlotte",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Electric Power Research Institute",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kennett Square",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Constellation Energy Generation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "RhinoCorps",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Terrestrial Energy USA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Greenwich",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Greenwich",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Terrestrial Energy USA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/fuel-fabrication-begins-for-marvel-microreactor-11501360/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "TRIGA International",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/a-marvel-machine-11513995/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "John Jackson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Freedom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kurt Meyers",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Todd Knighton",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Integrated Energy Systems",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Stirling",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Brayton",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kyoto-fusioneering-signs-joint-research-agreement-with-tsukuba-university-11604213/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kyoto",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mizuki Sakamoto",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Tsukuba University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canon Electron Tube Device Corporation",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Tsukuba University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tsukuba",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tokyo",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kyoto",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kyoto",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University of Tsukuba",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/energoatom-and-converdyn-sign-mou-on-uranium-conversion-11150491/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kotin",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Eastern Mining & Processing Plant",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Peter Kotin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energoatom",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/assystem-launches-new-taskforce-to-support-uk-fusion-11600735/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ITER",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Culham",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "House of Lords",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/spacenukes-partnership-wins-contract-to-develop-reactors-for-space-vehicles-11242893/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Intuitive Machines",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Houston",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Carolina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hopkins",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lockheed Martin",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Denver",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tommy Nix",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "AFRL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Earth",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nix",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "DRACO",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Earth",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Earth",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "DRACO",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/iaea-reviews-safety-at-philippines-research-reactor-11331498/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Netherlands",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "China",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Quezon City",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University of the Philippines",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "PNRI",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kaichao Sun",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ryan Olivares",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INSARR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University of the Philippines",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/rosatom-tests-fuel-for-planned-htgr-plant-11541259/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Rosatom",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosenergoatom",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ulyanovsk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dimitrovgrad",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "VNIINM",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rosatom",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "OKBM Africantov",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fuji Electric",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-awards-gain-vouchers-to-accelerate-advanced-nuclear-technologies-10978640/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "American Fork",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alameda",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moltex Energy USA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Round Rock",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cranberry",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 1
+    }
+]

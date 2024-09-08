@@ -1,0 +1,265 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/first-concrete-box-of-radioactive-waste-safely-transferred-from-berkeley-npp-10531964/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Magnox Ltd",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox Ltd",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Heaton",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/berkeley-decommissioning-to-begin-five-decades-ahead-of-schedule-10852784/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Altrad",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Celadon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kevin Williamson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Augean",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Augean",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/rolls-royce-visits-two-potential-uk-sites-for-its-first-smrs-10523038/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Welsh",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trawsfynydd",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Welsh Government",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trawsfynydd",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Horizon Nuclear Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Berkeley Estate",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Toby Savage",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Berkeley",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David White",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Laing O'Rourke",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "National",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Berkeley",
+        "frequency": 6
+    }
+]

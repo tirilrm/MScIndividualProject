@@ -1,0 +1,203 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/kairos-claims-operation-of-worlds-largest-flibe-system-11315280/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Elmore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TRISO Development Lab",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TRISO Development Lab",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kairos-and-materion-plant-to-produce-coolant-for-high-temperature-molten-salt-reactors-9867059/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Elmore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ed Blandford",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alan Kruizenga",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Keith Smith",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Materion Corporation",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 6
+    }
+]

@@ -1,0 +1,225 @@
+[
+    {
+        "url": "https://www.newcivilengineer.com/latest/pm-announces-national-endeavour-to-build-nuclear-workforce-and-warns-of-china-threat-26-03-2024/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "BAE Systems",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "China General Nuclear Power Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trident",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Lockwood",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Babcock International",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "South West of England",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Simone Rossi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Julia Pyke",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pyke",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tilly Spencer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Sizewell",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bob Anstey",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tom Greatrex",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Industry Association",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clare Barlow",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Liz Gregory",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear AMRC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sue Ferns",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mark Foy",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Office for Nuclear Regulation",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/safety/thermal-engineering-international-usa-inc-a-babcock-power-subsidiary-receives-asme-bpvc-section-iii-division-1-n-npt-ns-and-na-certifications-11773844/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Missouri",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Joplin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Missouri",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Joplin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joseph Green",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TEi",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 3
+    }
+]

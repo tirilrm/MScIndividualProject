@@ -1,0 +1,331 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/oklo-announces-merger-with-acquisition-company-altc-11005073/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fortune",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NRC",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sam Altman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Altman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "AltC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Altman",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Altman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "CNBC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Altman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "CNBC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 24
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-and-centrus-strengthen-cooperation-on-advanced-reactors-and-fuel-11112433/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Daniel B. Poneman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 19
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-makes-siemens-energy-preferred-supplier-for-advanced-reactors-11405963/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tobias Panse",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Siemens Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alex Renner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Siemens Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Monju",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oklo",
+        "frequency": 17
+    }
+]

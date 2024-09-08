@@ -1,0 +1,3284 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/arc-clean-technology-signs-agreement-on-deployment-of-smrs-in-alberta-10708319/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Belledune Port Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "William Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Clean Technology Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rick Christiaanse",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "X-Energy Canada",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 23
+    },
+    {
+        "url": "https://www.neimagazine.com/news/khnp-to-collaborate-with-canadian-firms-on-smr-deployment-11745205/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Georgia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Atlanta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generating Station",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau NPP",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jooho Whang",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KHNP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 19
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canadian-companies-to-collaborate-with-khnp-on-smrs-11347658/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Point Lepreau",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generating Station",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Canadian Nuclear Safety Commission",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KHNP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "United Arab Emirates",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "United Arab Emirates",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saint John",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jooho Whang",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "KHNP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Clean Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 17
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Partnership-for-ARC-100-commercialisation",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Korea Hydro & Nuclear Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Georgia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Atlanta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jooho Whang",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KHNP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Clean Technology Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/saskatchewan-and-new-brunswick-co-operate-on-smr-development-10775689/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Don Morgan",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Holland",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generating Station",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC Clean Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Clean Technology Canada",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/procurement-of-long-lead-components-to-begin-for-arc-100-smr-11206721/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generating Station",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Point Lepreau",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generating Station",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Canadian Nuclear Safety Commission",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Clean Technology",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/arc-canada-and-hatch-to-deploy-advanced-smr-technology-9824723/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Robert Francki",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hatch Global",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canadian",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hatch",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canadian",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hatch",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canadian",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canadian",
+                    "entity": "MISC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canadian",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nb-power-submits-documentation-for-smr-project-site-application-10983637/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Point Lepreau",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generating Station",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Belledune Port Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Clean Technology Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lori Clark",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NB Power",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canadian-port-considers-arc-asmr-10399939/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Green Energy Hub",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denis Caron",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Belledune Port Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Wilder",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Cross River Infrastructure Partners",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generating Station",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Belledune",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/ARC-SMR-proposed-for-green-energy-hub-at-Canadian",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Belledune",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cross River",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Green Energy Hub",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Wilder",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Cross River",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Belledune",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Labbe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ARC Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denis Caron",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BPA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Terry Richardson",
+                    "entity": "PER"
+                },
+                "relation": "place of birth",
+                "tail": {
+                    "word": "Pabineau First Nation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Port Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Northern New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Belledune",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canadian-nuclear-laboratories-and-arc-canada-to-advance-fuel-development-9883946/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jeff Griffin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Science and Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "CNRI",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "MISC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC Clean Energy Canada",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canadian-tribal-communities-secure-stake-in-smr-companies-11189112/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "First Nation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                },
+                "relation": "ethnicity",
+                "tail": {
+                    "word": "Saa Dene",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "First Nation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/state-of-the-art-glove-box-training-facility-opens-at-sellafield-11210165/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sellafield",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alpha Resilience & Capability (ARC",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Bowie",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacq Longrigg",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Decommissioning Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kierra Desay",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kierra Desay",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK ARC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/commonwealth-fusion-systems-and-eni-agree-on-fusion-commercialisation-10682640/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Italy",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Commonwealth Fusion Systems",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Claudio Descalzi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Eni",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "MIT Plasma Science & Fusion Centre",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "MIT",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Tractebel,-Hatch-team-up-for-nuclear-new-build",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tractebel",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tractebel",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tractebel",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denis Dumont",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Tractebel",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Amar Jolly",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Tractebel",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hatch",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hatch",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canadas-alberta-to-co-operate-with-south-korea-on-smrs-10786398/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Korea Atomic Energy Research Institute",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brian Jean",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sawhney",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hyundai Engineering",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jean",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jean",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "X-Energy Canada",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Canadian",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Terrestrial Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/more-us-funding-for-hydrogen-hubs-11231984/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "JSquish",
+                    "entity": "Unknown"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wikimedia Commons",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gulf Coast",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "North Dakota",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Heartland Hydrogen Hub",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Atlantic",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Illinois",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Midwest",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pacific Northwest",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Illinois",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "LaSalle Clean Energy Centre",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Dominguez",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Constellation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New York",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nine Mile Point",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Heartland Hydrogen Hub",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Xcel Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/korean-shipbuilder-joins-nuclear-shipping-project-11502161/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jasmine Hal",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Flickr",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "HD Hyundai",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Terrapower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Washington DC",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Southern Company",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kepco",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "American Bureau of Shipping",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gyeongbuk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gyeongju",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Norway",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Fincantieri",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Italy",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chukotka",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chukotka",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/ukaea-and-commonwealth-fusion-systems-to-advance-fusion-energy-9883991/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ian Chapman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UKAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bob Mumgaard",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UKAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Joint European Torus",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/smr-development-tracked-by-nea-and-iaea-studies-10691068/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC Clean Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM25",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM (CNEA",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNEA",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CGN",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNCC",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls Royce",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Akademik Lomonosov",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BREST",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "eVinci",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuward",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/new-brunswick-releases-energy-strategy-11383545/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Blaine Higgs",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Holland",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Natural Resources & Energy Development",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau Nuclear Generation Station",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Coon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Green",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-begins-testing-molten-salt-technology-11199243/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Southern Company",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mark S Berry",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Southern Company",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Latkowski",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Molten Chloride Fast Reactor",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mikal Bøe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Core Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/organisation-of-canadian-nuclear-industries-receives-funding-for-ready4smr-programme-9897188/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Atlantic Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "OCNI",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brian Fehrenbach",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OCNI",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brian Fehrenbach",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OCNI’s Director, Business Development and SMR Supply Chain",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University of New Brunswick",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ginette Petitpas Taylor",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Arlene Dunn",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usace-contracts-westinghouse-to-decommission-alaskan-reactor-9913527/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fort Greely",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fort Belvoir",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Delta Junction",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/x-energy-considers-further-development-of-high-temperature-gas-reactor-9953847/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Advanced Reactor Concepts",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Advanced Reactor Concepts award was the catalyst for X-energy’s progress toward the deployment of the Xe-100 reactor and our TRISO",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TRISO",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TRISO",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/X-energy,-TransAlta-to-assess-use-of-Xe-100-in-Alb",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TransAlta Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TransAlta",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nathan Neudorf",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Benjamin Reinke",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Seadrift",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Canadian Nuclear Safety Commission",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canada-calls-for-proposals-for-cnri-programme-10064542/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Joe McBrearty",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "AECL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-awards-gain-vouchers-to-accelerate-advanced-nuclear-technologies-10978640/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "American Fork",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alameda",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moltex Energy USA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Round Rock",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cranberry",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/DOE-marks-milestone-as-Xe-100-basic-design-complet",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Maryland",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TRISO",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Horizon Center Industrial Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Advanced Reactor Concepts",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Advanced Reactor Concepts award was the catalyst for X-energy's progress toward the deployment of the Xe-100 reactor and our TRISO",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TRISO",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/alberta-supports-study-on-smrs-11174062/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Calgary",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Laura Kilcrease",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Alberta Innovates",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rhona DelFrari",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Cenovus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Korea Atomic Energy Research Institute",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Justin Riemer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ERA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kingston",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Keith Stewart",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Greenpeace Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paul Dorfman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "University of Sussex",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Julia Levin",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Flick",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usace-re-awards-contract-to-dismantle-sm-1a-reactor-11242866/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Amentum",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "APTIM",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Louisiana",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mark Whitney",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USACE",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Lowe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "APTIM",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Delta Junction",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fort Greely",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fort Belvoir",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fort Greely",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/dismantling-of-mothballed-alaskan-nuclear-plant-to-resume-11109352/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fort Greely",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Carolina",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Aptim",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Louisiana",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brenda Barber",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USACE",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fort Belvoir",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "ARC",
+        "frequency": 1
+    }
+]

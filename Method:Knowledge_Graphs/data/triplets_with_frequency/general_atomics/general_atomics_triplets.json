@@ -1,0 +1,133 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/general-atomics-announces-plans-for-fusion-pilot-plant-10122682/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Anantha Krishnan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "General Atomics Energy Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wayne Solomon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brian Grierson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/uprating-triga-fuel-production-10362147/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Miha Meglic",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Unsplash",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "US DOE",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romans",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/general-atomics-to-develop-silicon-carbide-materials-for-fusion-power-plants-11483120/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Scott Forney",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "EMS",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brian Grierson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cadarache",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "General Atomics",
+        "frequency": 4
+    }
+]

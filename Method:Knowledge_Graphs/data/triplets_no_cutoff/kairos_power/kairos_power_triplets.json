@@ -1,0 +1,1657 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/kairos-power-to-produce-fuel-for-hermes-demonstration-reactor-10433303/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Los Alamos National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Los Alamos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ed Blandford",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Micah Hackett",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Los Alamos",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Los Alamos National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "LOC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Los Alamos",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Los Alamos National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 18
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kairos-claims-operation-of-worlds-largest-flibe-system-11315280/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Elmore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TRISO Development Lab",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TRISO Development Lab",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 16
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nrc-to-issue-construction-permit-for-hermes-test-reactor-11372897/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "LOC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kairos-and-materion-plant-to-produce-coolant-for-high-temperature-molten-salt-reactors-9867059/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Elmore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ed Blandford",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alan Kruizenga",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Keith Smith",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Materion Corporation",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kairos-begins-operation-of-molten-salt-system-11438233/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Elmore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Heritage Center Industrial Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-nrc-issues-final-environmental-impact-statement-for-hermes-test-reactor-11090256/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Darrell Gardner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Materion Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kairos-power-receives-doe-funding-to-support-development-of-hermes-reactor-11554057/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/construction-permit-for-kairos-hermes-2-reactor-submitted-to-us-nrc-11032441/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Hermes 2",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nrc-advisors-approve-construction-permit-for-hermes-reactor-10933756/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christopher Hanson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NRC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tennessee Valley Authority",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nea-launches-second-edition-of-its-small-modular-reactor-dashboard-11561305/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "William D Magwood",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Carem",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Carem SM",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seadrift",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Slavutych",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pitesti",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rosatom",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/smr-development-tracked-by-nea-and-iaea-studies-10691068/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC Clean Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM25",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM (CNEA",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNEA",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CGN",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNCC",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls Royce",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Akademik Lomonosov",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BREST",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "eVinci",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuward",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-nrc-accepts-triso-xs-application-for-fuel-fabrication-facility-10451681/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Los Alamos National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/TVA-GEH-cooperate-on-BWRX-300-deployment-at-Clinch",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee Valley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-awards-gain-vouchers-to-accelerate-advanced-nuclear-technologies-10978640/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "American Fork",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alameda",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moltex Energy USA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Round Rock",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cranberry",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/more-funding-for-us-companies-under-does-gain-programme-10451593/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Midland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US Gulf Coast",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Huntsville",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Santa Clara",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "El Segundo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/white-house-plans-amrs-to-power-multiple-army-bases-in-the-united-states-31-05-2024/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "United States",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "United States Army",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Catherine Harvey",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Uzbekistan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Office for Nuclear Regulation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Canadian Nuclear Safety Commission",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oklo-restarts-nrc-licensing-process-for-aurora-microreactor-10031725/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.nucnet.org/news/at-every-level-of-society-support-for-nuclear-has-materialised-into-demand-5-4-2024",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Maria Korsnick",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Energy Institute",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Georgia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Vogtle",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Georgia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Vogtle has taught us: with every new unit, we learn something new,” Korsnick",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Korsnick",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Diablo Canyon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Gates",
+                    "entity": "MISC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Shepherd Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Houston",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Africa",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ghana",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orano",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Kairos Power",
+        "frequency": 1
+    }
+]

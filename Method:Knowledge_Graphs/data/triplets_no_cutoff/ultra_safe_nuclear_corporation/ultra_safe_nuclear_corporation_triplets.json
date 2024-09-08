@@ -1,0 +1,4357 @@
+[
+    {
+        "url": "https://www.neimagazine.com/analysis/building-the-gen-iv-fuel-supply-chain-9809794/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Salt Lake City",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "PFM",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Netherlands",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Petten",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Salt Lake City",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ric Fulop",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Desktop Metal",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kurt Terrani",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 21
+    },
+    {
+        "url": "https://www.neimagazine.com/news/u-battery-personnel-join-ultra-safe-nuclears-uk-team-10713528/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "AGR",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "McMaster University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Middle East",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "North Africa",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 21
+    },
+    {
+        "url": "https://www.neimagazine.com/news/french-us-joint-venture-targets-commercial-production-of-triso-fuel-10558505/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Seattle",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chalk River",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UIUC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ala Alzaben",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-details-uk-funding-award-for-mmr-development-11030388/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jacobs",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UNSC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Karen Wiemel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Jacobs Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lappeenranta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-wins-nasa-nuclear-propulsion-contract-11242887/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Vishal Patel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Vishal Patel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC Programme Manager for Nuclear Propulsion",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Vishal Patel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Propulsion",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paolo Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC Nuclear Advanced Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michael Eades",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/framatome-and-usnc-establish-joint-venture-to-manufacture-reactor-fuel-11338684/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Paris",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Paris",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Paris",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paris",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "France",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bernard Fontana",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ultra Safe Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Champaign",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University of Illinois Urbana",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bernard Fontana",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/ultra-safe-nuclear-joins-korean-companies-to-construct-hydrogen-micro-hub-10790402/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hyundai Engineering",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hyundai Engineering",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Seoul",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jongno",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gyeongsangbuk-do",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gumi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hong Hyun se",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hyundai Engineering",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/alabama-site-selected-for-mmr-assembly-plant-10967792/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gadsden",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lappeenranta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kay Ivey",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gadsden",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gadsden",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kay Ivey",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/news/cop28-enec-signs-three-more-smr-agreements-11365120/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Dubai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Emirates Nuclear Energy Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mohamed Al Hammadi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Middle East",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Landon",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Middle East",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clay Sell",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clean Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "White House",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Barakah",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/philippines-and-us-sign-nuclear-co-operation-agreement-11315263/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "San Francisco",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Raphael",
+                    "entity": "Unknown"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lotilla",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ferdinand Marcos Jr",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Marcos",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hiroshima",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Marcos",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippine",
+                    "entity": "MISC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippine",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippine",
+                    "entity": "MISC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Philippine",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rodrigo Duterte",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bataan Nuclear Power Plant",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chernobyl",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pinatubo",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Manuel V Pangilinan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Meralco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Meralco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Meralco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Raphael",
+                    "entity": "Unknown"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/poland-and-south-korea-strengthen-co-operation-including-nuclear-11014803/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Yoon Suk Yeol",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doosan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Korea",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Patnow",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrzej Duda",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Polish",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mariusz Grab",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GAP Management Board",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Grupa Azoty",
+                    "entity": "Unknown"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venne",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hyundai Engineering Company",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "HyeonSung Hong",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "HEC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrzej Duda",
+                    "entity": "PER"
+                },
+                "relation": "place of birth",
+                "tail": {
+                    "word": "Warsaw",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-military-withdraws-offer-to-oklo-for-microreactor-11317824/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fairbanks",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Eielson Air Force Base",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michelle McCaskill",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DLA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jake DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mary Woollen",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DLA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alaska",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fairbanks",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/urenco-supplies-enriched-uranium-for-advanced-reactor-project-10657788/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Urenco USA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UUSA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kurt Terrani",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UNSC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Karen Fili",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UUSA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chalk River",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-and-peregrine-collaborate-on-advanced-energy-systems-11696106/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Sandia National Laboratories",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Brayton Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "PTT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/ultra-safe-nuclear-and-hyundai-engineering-collaborate-on-microreactors-9969413/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hyundai Engineering",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ottawa",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Ottawa",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ottawa",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ottawa",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hyeon Sung Hong",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hyundai Engineering",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ultra Safe Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hyeon Sung Hong",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Hyundai Engineering",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/ultra-safe-nuclear-corporation-opens-pilot-fuel-manufacturing-facility-9943982/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chuck Fleischmann",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn A.McCarthy",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venne",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ultra Safe Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venne",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ultra Safe Nuclear moves one-step closer to the commercialisation of its fuel production,” stated USNC",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Department of Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-explores-possible-deployment-of-its-mmr-in-finland-10451860/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lappeenranta",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lappeenrannan Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Juhani Hyvärine",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "McMaster University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Middle East",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "North Africa",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Juha-Matti Saksa",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-reveal-fuel-technology-breakthrough-11050823/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Dan Stout",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.nucnet.org/news/usnc-delivers-pilot-triso-fuel-batch-to-nasa-6-1-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canada-selects-site-for-first-mmr-10858795/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "McMaster University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jos Diening",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GFP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe McBreart",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "CNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chalk River Laboratories",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chalk River Laboratories",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chalk River",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/more-doe-funding-for-advanced-reactor-experiment-designs-11246897/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "SpaceX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "California",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "HTGR",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lappeenranta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Pittsburgh",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "eVinci Technologies",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/USNC-and-PTT-to-collaborate-on-advanced-energy-sys",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Maine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wiscasset",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sandia National Laboratories",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Brayton Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "PTT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-signs-more-agreements-in-poland-for-its-mmr-10733954/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Szczecin",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "West Pomeranian University of Technology",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tomasz Hinc",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Grupa Azoty",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Szczecin",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "West Pomeranian University of Technology",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lappeenranta",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-delivers-triso-fuel-to-nasa-10943644/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jason Turpin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kurt Terrani",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/studies-underway-for-philippines-microreactor-11735730/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Meralco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Manila",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ronnie Aperocho",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Meralco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Meralco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Manuel V Pangilinan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Meralco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Meralco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-technology-selected-for-nasa-flashlight-10961646/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "EmberCore",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Thomas Prettyman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Planetary Science Institute",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Morrison",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mare Tranquillitatis",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Shackleton Crater",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tucson",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Planetary Science Institute",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Arizona",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tucson",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/a-look-at-the-projects-being-brought-forward-by-great-british-nuclear-24-07-2023/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Bam Nuttall",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Newcleo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Springfields Fuels",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Suffolk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Suffolk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Somerset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Site-unveiled-for-Canadian-MMR",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jos Diening",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GFP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe McBrearty",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "AECL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Amy Gottschling",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "AECL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chalk River Laboratories",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "McMaster University",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-nrc-accepts-triso-xs-application-for-fuel-fabrication-facility-10451681/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Los Alamos National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uk-government-allocates-funds-for-next-generation-nuclear-technology-9980914/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Greg Hands",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "HTGR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Slough",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Merseyside",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "St Helens",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lancashire",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lancashire",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Lancashire",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Greg Hands",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/advanced-reactorsfusion/idaho-national-laboratorys-future-focus-11710931/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jess C. Gehin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Science & Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "General Electric",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "General Atomics",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Aurora",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/6-nuclear-innovations-win-government-funding-05-09-2022/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Greg Hands",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Slough",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gloucester",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "EDF Energy Nuclear Generation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Merseyside",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "St Helens",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lancashire",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Lancashire",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cheshire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/cop28-enec-signs-mou-on-co-operation-with-terrestrial-energy-11374716/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Dubai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Emirates Nuclear Energy Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mohamed Al Hammadi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Terrestrial Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "IMSR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "IMSR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Simon Irish",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IMSR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Springfields Fuels Limited",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nea-launches-second-edition-of-its-small-modular-reactor-dashboard-11561305/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "William D Magwood",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Carem",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Carem SM",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seadrift",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Slavutych",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pitesti",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rosatom",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.nucnet.org/news/geopolitics-and-new-nuclear-technologies-driving-increased-momentum-in-enrichment-market-12-5-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Euratom Supply Agency",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Brussels",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Urenco",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Forman",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Netherlands",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Almelo",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Forman",
+                    "entity": "PER"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Forman",
+                    "entity": "PER"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hale",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sapporo 5",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/CNL-aims-for-carbon-neutrality-of-Chalk-River-site",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chalk River Laboratories",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chalk River",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe McBreart",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Chalk River Laboratories",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.nucnet.org/news/government-remains-committed-to-sizewell-c-mega-project-says-energy-secretary-7-3-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Grant Shapps",
+                    "entity": "PER"
+                },
+                "relation": "place of birth",
+                "tail": {
+                    "word": "London",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Somerset",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Julia Pyke",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Sizewell",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Shapps",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Shapps made no new financial commitments to the Sizewell",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Haleu",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.nucnet.org/news/ottawa-approves-cad74-million-funding-for-deployment-of-first-smr-in-mid-2030s-8-1-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Gorman",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chalk River Laboratories",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canada-calls-for-proposals-for-cnri-programme-10064542/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Joe McBrearty",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "AECL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/novel-fuels-set-for-growth-11354780/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Germany",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dan Leistikow",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Centrus",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Zheleznogorsk",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ulyanovsk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dimitrovgrad",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNNC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/great-british-nuclear-launched-with-smr-competition-and-157m-nuclear-funding-package-18-07-2023/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GBN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gwen Parry",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GBN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Bowie",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Simon Bowen",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GBN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sizewell",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jess Ralston",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy and Climate Intelligence Unit",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Conboy",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Atkins",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mustafa Latif",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BDB Pitmans",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alan Sinclair",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Turner & Townsend",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Leo Quinn",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Balfour Beatty Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/smr-development-tracked-by-nea-and-iaea-studies-10691068/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC Clean Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM25",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM (CNEA",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNEA",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CGN",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNCC",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls Royce",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Akademik Lomonosov",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BREST",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "eVinci",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuward",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/inl-sees-market-for-microreactors-in-some-us-states-10884680/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "John Jackson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DOE Office of Nuclear Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-approves-safety-design-strategy-for-radiant-microreactor/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kaleidos",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Doug Bernauer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Radiant",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brad Tomer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NRIC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/supply-chain/radiant-and-amsted-graphite-strengthen-nuclear-grade-graphite-supply-chain/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ryan Seper",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Radiant Industries",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Radiant Industries",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "California",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Amsted Industries",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Chicago",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tori Shivanandan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Radiant",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Amsted Graphite Materials",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gavin Noel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Amsted Graphite Materials",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uk-launches-nuclear-revival-11019899/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sizewell",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "North West",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tom Greatrex",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Peattie",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Decommissioning Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gwen Parry",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GBN",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.nucnet.org/news/nuclear-energy-committee-established-as-nation-develops-reactor-programme-2-1-2024",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bataan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Bataan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Luzon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Luzon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bataan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Luzon",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Philippines",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Manila",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Talim Island",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Ultra Safe Nuclear Corporation",
+        "frequency": 1
+    }
+]

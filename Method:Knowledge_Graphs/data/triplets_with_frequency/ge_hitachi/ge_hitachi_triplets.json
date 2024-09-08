@@ -1,0 +1,2393 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/uk-funding-for-bwrx-300-11473443/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Andrew Bowie",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "SGE",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tennessee Valley Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Tennessee",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 17
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-canadian-and-polish-companies-to-support-bwrx-300-deployment-10708358/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clarington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rafal Kasprów",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 16
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-joins-ge-vernova-nuclears-newly-established-smr-supplier-group-11733119/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario Power Generation",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH Jay",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "Unknown"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Maví Zingoni",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Vernova",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/BWRX-300-selected-for-Estonia-s-first-nuclear-powe",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Toronto",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kalev Kallemets",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kallemet",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Riigikogu",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kallemet",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-wins-engineering-contract-from-geh-for-bwrx-300-rpv-10697051/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Funding-to-support-UK-deployment-of-BWRX-300",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Laing O'Rourke",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natural Resources Wales",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jacobs",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Bowie",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/news/estonias-fermi-energia-chooses-bwrx-300-for-its-smr-programme-10582892/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORLEN Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kalev Kallemets",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Marti Jeltsov",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kallemet",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwrx-300-smr-to-be-deployed-in-saskatchewan-9818835/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Don Morgan",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/smr-competition-heats-up-in-the-uk-10456556/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sunderland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Deeside",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tom Samson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Royce SMR",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Horizon Nuclear Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Balfour Beatty",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Holtec International",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "North West England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moorside Clean Energy Hu",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moorside",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Balfour",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Holtec",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trawsfynydd",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gareth Thomas",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Holtec Britain",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "North Carolina",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORLEN Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sean Sexstone",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "GDA",
+                    "entity": "MISC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GDA",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jacobs UK",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Carlisle",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kingmoor Park",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/sheffield-forgemasters-partners-ge-hitachi-to-support-uik-deployment-of-bwrx-300-smr-10002595/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Sheffield",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Bond",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/tepco-and-hitachi-set-up-joint-venture-to-produce-used-fuel-storage-10137922/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Fukushima Prefecture",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hamadori",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hitachi Zosen",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "USEC",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NAC International",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hamadori",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Toso Mirai Manufacturing",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tokyo",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hitachi Zosen",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Fukushima Prefecture",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hamamatsuri",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hitachi Zosen",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uk-government-to-buy-wylfa-and-oldbury-nuclear-sites-from-hitachi-11580315/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Gloucestershire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Anglesey",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wylfa Newydd",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hitachi Europe Limited",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Hitachi",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Duncan Hawthorne",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Horizon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Anglesey",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/TVA-GEH-cooperate-on-BWRX-300-deployment-at-Clinch",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee Valley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.nucnet.org/news/geh-wins-gbp33-million-grant-for-bwrx-300-small-modular-reactor-development-1-4-2024",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Andrew Bowie",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/In-Quotes-GE-Hitachi-s-Jay-Wileman-on-regulatory-h",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ABWR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "North America",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNSC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNSC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE HItachi",
+                    "entity": "ORG"
+                },
+                "relation": "industry",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "North America",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "NRC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orlen Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.nucnet.org/news/government-announces-plans-to-buy-two-nuclear-sites-for-gbp160-million-3-3-2024",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jeremy Hunt",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "England",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Gloucestershire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hitachi",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Gloucestershire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wylfa",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Magnox",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hunt",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wylfa",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/are-smrs-on-the-cost-curve-10815013/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "India",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "PWR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "ARIS",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Canadian Nuclear Safety Commission",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls Royce",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wisconsin",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dairyland Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "S.N. Nuclearelectrica",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "VOYGR",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bulgaria",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Czechia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Orlen Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls Royce",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Louisiana",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Grant County",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Changjiang",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kazakhstan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kurchatov",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/saskpower-and-ge-hitachi-to-co-operate-on-smrs-11481385/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Estevan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rupen Pandya",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "SaskPower",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.nucnet.org/news/smrs-can-be-developed-with-lcoe-at-key-level-of-about-usd60-mwh-says-geh-8-3-2022",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario Power Generation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Synthos Group",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bud Albright",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US Nuclear Industry Council",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Doug True",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NEI",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.nucnet.org/news/tva-preparing-draft-construction-permit-applications-for-smrs-at-tennessee-site-4-3-2023",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Roane County",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fiedler",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fiedler",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "OPG",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fiedler",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/ge-hitachis-bwrx-300-completes-first-two-phases-of-design-review-10679782/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario Power Generation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORLEN Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "GE Hitachi",
+        "frequency": 6
+    }
+]

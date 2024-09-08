@@ -1,0 +1,765 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/kairos-claims-operation-of-worlds-largest-flibe-system-11315280/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Elmore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TRISO Development Lab",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TRISO Development Lab",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kairos-and-materion-plant-to-produce-coolant-for-high-temperature-molten-salt-reactors-9867059/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Elmore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ed Blandford",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alan Kruizenga",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Keith Smith",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Materion Corporation",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kairos-begins-operation-of-molten-salt-system-11438233/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Elmore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Heritage Center Industrial Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/argonne-national-lab-supports-advanced-nuclear-concepts-10574308/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Radiant Industries",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Radiant",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Doug Bernauer",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Doug Bernauer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Radiant",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Argonne",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Darius Lisowski",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ANL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Melissa Rose",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ANL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe Energy",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rose",
+                    "entity": "PER"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Argonne",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Argonne",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/chinas-experimental-molten-salt-reactor-receives-licence-10952226/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wuwei",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/CEA-spins-off-two-companies-for-SMR-development",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Hexana",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Paul Gauthé",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lucas Tardieu",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Stellaria",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hexana",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Stellaria",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Emmanuel Macron",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "France",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Macron",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-nrc-issues-final-environmental-impact-statement-for-hermes-test-reactor-11090256/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Darrell Gardner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Flibe",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Materion Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nrc-advisors-approve-construction-permit-for-hermes-reactor-10933756/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christopher Hanson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NRC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tennessee Valley Authority",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/more-funding-for-us-companies-under-does-gain-programme-10451593/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Michigan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Midland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US Gulf Coast",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alabama",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Huntsville",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Santa Clara",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "El Segundo",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/china-approves-launch-of-liquid-salt-thorium-reactor-9920912/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Shanghai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Shanghai Institute of Applied Physics",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Shanghai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jiading",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gansu",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wuwe",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TMSR",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Flibe",
+        "frequency": 1
+    }
+]

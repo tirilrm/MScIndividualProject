@@ -1,0 +1,517 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-to-evaluate-microreactor-deployment-in-wyoming-11146865/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "trona",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "WEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Steven Aumeier",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rob Creager",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wyoming Energy Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming Energy Authority",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 19
+    },
+    {
+        "url": "https://www.neimagazine.com/news/lh-industrial-and-bwxt-to-explore-microreactor-technology-for-industrial-heat-and-power-11725689/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "WEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Wandler",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Evercore Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Wandler",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "L&H Industrial",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wandler",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Marcio Paes Barreto",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Evercore Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Barreto",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Advanced Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "L&H Industrial",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Steven Aumeier",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rob Creager",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "WEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Marcio Paes Barreto",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Evercore Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-starts-production-of-triso-fuel-for-us-microreactor-10431260/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "US Department of Defense",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rex D Geve",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "James L Reuter",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-reactor-and-fuel-selected-for-darpa-space-project-11074621/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Advanced Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Lockheed Martin",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kirk Shireman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Lockheed Martin",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Bendle",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Lockheed Martin",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-announces-contract-for-naval-nuclear-reactor-fuel-11258968/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Erwin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Navy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sharon Smoot",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Naval Reactors",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Naval Reactors",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Naval Reactors",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-selected-by-us-dod-to-deliver-prototype-reactor-9772250/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Euclid",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joe Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Advanced Technologies LLC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Aerojet Rocketdyne",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Northrop Grumman",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "BWX",
+        "frequency": 9
+    }
+]

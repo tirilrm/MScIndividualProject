@@ -1,0 +1,491 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/fusion-reactor-prototype-planned-for-tva-site-11552220/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinton",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christofer Mowry",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Type One Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Germany",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Greifswald",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Canik",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Anderson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Systems Engineering",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Germany",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Max Planck Institute for Plasma Physics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bradley Nelson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UW–Madison",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pegasus Toroidal Experiment, the HSX Plasma Laboratory",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Lee",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christofer Mowry",
+                    "entity": "Unknown"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Knox News",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lyman Spitzer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Princeton University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Type One Energy",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-national-lab-uses-virtual-reality-for-radiation-training-10839074/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Michael Smith",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jason O’Connell",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Teletrix",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Susan Hubbard",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/upgrade-at-brookhaven-national-lab-increases-actinium-225-production-10798301/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Cathy Cutler",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Medical Isotope Research & Production",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Neutron Science",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "LANL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/ukaea-partners-with-oak-ridge-national-laboratory-on-fusion-10679854/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oxfordshire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Culham",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL High Flux Isotope Reactor",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Yutai Kato",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UKAEA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cynthia Jenks & Yutai Kato",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Yutai Kato",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/demolition-of-us-bulk-shielding-reactor-complex-begins-10021926/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "US Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "US Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "EM Oak Ridge",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bulk Shielding Reactor",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Laura Wilkerson",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Oak",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dan Macias",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UCOR",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-delivers-plutonium-238-for-nasa-missions-11021754/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dragonfly",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "High Flux Isotope Reactor",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "LANL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Florida",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kennedy Space Center",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-begins-demolishing-low-intensity-test-reactor-10747976/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nathan Felosi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dan Macias",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 6
+    }
+]

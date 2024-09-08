@@ -1,0 +1,1314 @@
+[
+    {
+        "url": "https://www.newcivilengineer.com/latest/pm-announces-national-endeavour-to-build-nuclear-workforce-and-warns-of-china-threat-26-03-2024/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "BAE Systems",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "China General Nuclear Power Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Trident",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Lockwood",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Babcock International",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "South West of England",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Simone Rossi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Julia Pyke",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pyke",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tilly Spencer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Sizewell",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bob Anstey",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tom Greatrex",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Industry Association",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clare Barlow",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Liz Gregory",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear AMRC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sue Ferns",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mark Foy",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Office for Nuclear Regulation",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/safety/thermal-engineering-international-usa-inc-a-babcock-power-subsidiary-receives-asme-bpvc-section-iii-division-1-n-npt-ns-and-na-certifications-11773844/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Missouri",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Joplin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Missouri",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Joplin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Joseph Green",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TEi",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uk-announces-national-endeavour-to-support-nuclear-11635195/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Furness",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Barrow",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Lockwood",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Babcock International",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Simone Rossi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "EDF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Steve Carlier",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Glasgow",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rishi Sunak",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/cavendish-contracted-to-support-decommissioning-of-japans-monju-reactor-10831730/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fukui Prefecture",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "Unknown"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Fukui Prefecture",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Fukui Prefecture",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Japan",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Monju",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "JAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dounreay",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Lockwood",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Babcock Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Masanori Koguchi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mick Gornall",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.nucnet.org/news/government-in-talks-with-hitachi-over-nuclear-power-station-site-in-wales-2-1-2024",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wales",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Anglesey",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Gloucestershire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wylfa",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "London",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tom Greatrex",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Wylfa",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wylfa",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nuclear Industry Association",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "BAE Systems",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "EDF Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hartlepool A –",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Torness",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hunterston",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dungeness B",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Sheffield-Forgemasters-joins-UK-Xe-100-deployment",
+        "triplets": [
+            {
+                "head": {
+                    "word": "X-Energy",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Greg Hands",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Generic Design",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Funds-awarded-to-assist-Xe-100-deployment-in-the-U",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Carol Tansley",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mick Gornall",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kier Group",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Howden",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Glasgow",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/40000-new-nuclear-jobs-ambition-set-out-in-government-backed-plan-16-05-2024/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Lynne Matthews",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Destination Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sue Ferns",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lee McDonough",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy Security",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Steve Carlier",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Rolls Royce",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Lockwood",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BAE Systems",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ian Chapman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UK Atomic Energy Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paul Howarth",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UK National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paul Howarth",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UK National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gwen Parry",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Simone Rossi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "EDF Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Gardner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Submarine Delivery Agency",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Peattie",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Decommissioning Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paul Monk",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy Security",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paul Monk",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy Security and Net Zero",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Paul Monk",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Net Zero",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mark Foy",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Office for Nuclear Regulation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nick Elliott",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Atomic Weapons Establishment",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/new-build-life-extension/teesside-university-to-assess-benefits-of-proposed-smr-plant-at-hartlepool/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Teesside University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Matthew Cotton",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Teesside University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tees Valley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dorset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Winfrith",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Carol Tansley",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mick Gornall",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/sheffield-forgemasters-awarded-asme-status-11706074/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ASME",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/funding-secured-to-accelerate-xe-100-deployment-in-the-uk-11671126/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dorset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Winfrith",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Howden",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Glasgow",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/sheffield-forgemasters-completes-smr-nuclear-vessel-demonstrator-11533660/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "NuScale Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/sheffield-forgemasters-to-support-deployment-of-xe-100-htgrs-11228383/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Dorset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Winfrith",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Generic Design",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "X-Energy",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Greg Hands",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Carol Tansley",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sheffield Forgemasters",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Howden",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Babcock and Wilcox",
+        "frequency": 1
+    }
+]

@@ -1,0 +1,4827 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/fusion-reactor-prototype-planned-for-tva-site-11552220/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinton",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christofer Mowry",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Type One Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Germany",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Greifswald",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Canik",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Anderson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Systems Engineering",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Germany",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Max Planck Institute for Plasma Physics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bradley Nelson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UW–Madison",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Pegasus Toroidal Experiment, the HSX Plasma Laboratory",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bill Lee",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TVA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christofer Mowry",
+                    "entity": "Unknown"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Knox News",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lyman Spitzer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Princeton University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Type One Energy",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-national-lab-uses-virtual-reality-for-radiation-training-10839074/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Michael Smith",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jason O’Connell",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Teletrix",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Susan Hubbard",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/upgrade-at-brookhaven-national-lab-increases-actinium-225-production-10798301/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Cathy Cutler",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Medical Isotope Research & Production",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Neutron Science",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "LANL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/ukaea-partners-with-oak-ridge-national-laboratory-on-fusion-10679854/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oxfordshire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Culham",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL High Flux Isotope Reactor",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Yutai Kato",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UKAEA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Cynthia Jenks & Yutai Kato",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Yutai Kato",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/demolition-of-us-bulk-shielding-reactor-complex-begins-10021926/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "US Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "US Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "EM Oak Ridge",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bulk Shielding Reactor",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Laura Wilkerson",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Oak",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dan Macias",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UCOR",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-delivers-plutonium-238-for-nasa-missions-11021754/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dragonfly",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "High Flux Isotope Reactor",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "LANL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Florida",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kennedy Space Center",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 8
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-begins-demolishing-low-intensity-test-reactor-10747976/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nathan Felosi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dan Macias",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/fuel-fuel-cycle/ornl-begins-examination-of-ge-vernovas-advanced-nuclear-fuel-11773268/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "North Carolina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Frank Goldner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Office of Nuclear Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kurihama",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nuscale-power-and-ornl-to-undertake-smr-assessment-11323905/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mickey Wade",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho Falls",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-gain-vouchers-awarded-for-advanced-reactors-and-used-fuel-recycling-10082331/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Washington,",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Carolina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Greer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/westinghouse-and-edf-co-operate-on-accident-tolerant-fuel-9883963/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sweden",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Västerås",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tarik Choho",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Illinois",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Byron",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Belgium",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doel",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hatch",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/NuScale,-ORNL-to-assess-SMR-use-by-industry",
+        "triplets": [
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mickey Wade",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho Falls",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "José Reyes",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/news/ultra-safe-nuclear-corporation-opens-pilot-fuel-manufacturing-facility-9943982/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chuck Fleischmann",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn A.McCarthy",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venne",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ultra Safe Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venne",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ultra Safe Nuclear moves one-step closer to the commercialisation of its fuel production,” stated USNC",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Department of Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/clean-up-completed-at-ornl-reactor-demolition-site-11735729/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clive",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Greg McGinnis",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UCOR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jim Daffron",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Graphite Reactor",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Graphite Reactor support facilities and the Oak Ridge Research Reactor",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/x-energy-awarded-federal-tax-credit-for-triso-fuel-facility-11713198/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fuel Fabrication Facility",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seadrift",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TRISO",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 4
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nasa-moves-closer-to-use-of-plutonium-238-to-power-space-missions-11335593/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Cleveland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Glenn Research Center",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/copenhagen-atomics-submits-molten-salt-smr-design-10500286/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Denmark",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Copenhagen",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denmark",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Copenhagen",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denmark",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Copenhagen",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Copenhagen",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Denmark",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Thomas Steenberg",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UK Atomics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK Atomics",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Copenhagen Atomics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Thomas Jam Pedersen",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Copenhagen Atomics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Copenhagen",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Technical University of Denmark",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-plans-production-of-iridium-192-11306170/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jake Bourn",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "QSA Global",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-awards-gain-vouchers-to-accelerate-advanced-nuclear-technologies-10978640/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "American Fork",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alameda",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moltex Energy USA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Round Rock",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cranberry",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/building-the-gen-iv-fuel-supply-chain-9809794/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Salt Lake City",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "PFM",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Netherlands",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Petten",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Salt Lake City",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ric Fulop",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Desktop Metal",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kurt Terrani",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/new-iaea-publication-discusses-molten-salt-reactor-technology-11671135/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tatjana Jevremovic",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jiri Krepel",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Paul Scherrer Institute",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kailash Agarwal",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/X-energy-awarded-federal-tax-credit-for-TRISO-fuel",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Nuclear Regulatory Commission",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Benjamin Reinke",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "US House of Representatives",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seadrift",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 3
+    },
+    {
+        "url": "https://www.neimagazine.com/news/inl-receives-irradiated-next-generation-fuel-for-testing-11473480/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Fabiola Cappia",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Daniel Wachs",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DOE",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tarik Choho",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Kamerman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "INL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/haleu-fuel-transport-packaging-10510222/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Department of Energy",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "John McCormick",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Bionomics",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Miller",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NAC International",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/x-energy-seeks-kexim-finance-for-xe-100-smr-10836117/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Korean",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kexim",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dorset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Winfrith",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hee-sung Yoon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kexim",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "J. Clay Sell",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kexim",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-begins-testing-molten-salt-technology-11199243/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Southern Company",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mark S Berry",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Southern Company",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Latkowski",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Molten Chloride Fast Reactor",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mikal Bøe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Core Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-awards-more-gain-vouchers-11183648/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Savannah River",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-nrc-accepts-triso-xs-application-for-fuel-fabrication-facility-10451681/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWX Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pele",
+                    "entity": "Unknown"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Los Alamos National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Piketon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "US Department of Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/x-energy-to-open-support-centre-for-planned-xe-100-smr-fleet-10673038/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Maryland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Frederick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dorset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Winfrith",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US Gulf Coast",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bob Schuetz",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/mit-and-co-researchers-devise-new-tool-for-testing-reactor-components-10515641/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Saudi Arabia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Abdullah University of Science and Technology",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/thorcon-to-carry-out-a-pre-licensing-consultation-for-a-500-mw-demonstration-plant-in-indonesia-10738898/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bapeten",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bapeten",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bangka",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kelasa Island",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Belitung",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kelasa Island",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Martingale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Florida",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Okpo",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dandang Purwadi",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Spanish",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Empresarios Agrupados",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Gajah Mada University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sugeng Sumbarjo",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Jakarta",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/triso-x-tests-fuel-for-nuclear-thermal-space-applications-10682655/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Marshall Space Flight Centre",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fuel Fabrication Facility",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TRISO-X",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/rd-set-to-minimise-waste-volumes-9865389/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Andrew K. Hoffman",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Research",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "James Saal",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Citrine",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Orano Federal Services",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Orano",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dorothy Davidson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Orano FS",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Jersey",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rutgers University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New York",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Stony Brook University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lawrence Berkeley National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oklo",
+                    "entity": "MISC"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jacob DeWitte",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oklo",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rensselaer Polytechnic Institute",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-southern-company-and-terrapower-build-worlds-largest-chloride-salt-system-10102329/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Southern Company",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Latkowski",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mark S Berry",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Southern Company",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/china-approves-launch-of-liquid-salt-thorium-reactor-9920912/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Shanghai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Shanghai Institute of Applied Physics",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Shanghai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jiading",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gansu",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wuwe",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TMSR",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-announces-15-billion-to-strengthen-national-laboratories-10281810/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jennifer M Granholm",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Argonne National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/x-energy-considers-further-development-of-high-temperature-gas-reactor-9953847/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Advanced Reactor Concepts",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Advanced Reactor Concepts award was the catalyst for X-energy’s progress toward the deployment of the Xe-100 reactor and our TRISO",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TRISO",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TRISO",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-identifies-coal-plant-sites-that-could-convert-to-nuclear-10007094/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-emplaces-waste-at-new-panel-in-wipp-and-expands-idaho-disposal-facility-10384419/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Waste Isolation Pilot",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "WIPP",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sean Dunagan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Waste Partnership",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-nrc-accepts-application-for-molten-salt-research-reactor-10381255/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Rusty Towell",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NEXTRA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Austin",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rick Perry",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/framatome-installs-first-3d-printed-stainless-steel-fuel-component-at-forsmark-npp-10026030/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Lionel Gaiffe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Framatome",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ella Ekeroth",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Vattenfall",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/molten-salt-nuclear-power-barge-proposed-for-indonesia-10446084/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Bureau Veritas",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Martingale",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Florida",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Okpo",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Anne Kusmayati",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ministry of Energy and Mineral Resources",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dandang Purwadi",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Laksana Tri Handoko",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ThorCon",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BRIN",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mego Pinandito",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Haendra Subekti",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BV",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.nucnet.org/news/x-energy-awarded-usd148-5-million-for-first-of-a-kind-triso-x-fuel-facility-4-4-2024",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/fusion-and-fission-need-each-other-10807043/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wikipedia",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ITER",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Germany",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Greifswald",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Daejeon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Daejeon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Daejeon",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Princeton Plasma Physics Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Massachusetts Institute of Technology",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Commonwealth Fusion Systems",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "First Light Fusion",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TAE Technologies",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Helion",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tokamak Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Daniel Jassby",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Princeton Plasma Physics Lab",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Princeton",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tokamak Fusion Test",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sally Forbes",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UKAEA Culham Services Centre",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Luigi di Pace",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Italy",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-subsidiary-awarded-contract-extension-for-uranium-down-blending-services-11520059/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kazakhstan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ulba Metallurgical Plant",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Watts Bar",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Workshops-to-extend-US-nuclear-cooperation-with-Eu",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Eurasia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Enoh Ebon",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Brussels",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USTDA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USTDA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USTDA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USTDA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USTDA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ebong",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USTDA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/DOE-marks-milestone-as-Xe-100-basic-design-complet",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Maryland",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TRISO",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Horizon Center Industrial Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Advanced Reactor Concepts",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Advanced Reactor Concepts award was the catalyst for X-energy's progress toward the deployment of the Xe-100 reactor and our TRISO",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pete Pappano",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TRISO",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/united-states-considers-coal-to-nuclear-plant-conversion-potential-16-09-2022/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Argonne National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Argonne National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Lyash",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Tennessee Valley Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bryden Wood",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-breaks-ground-on-planned-natrium-npp/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "SK Innovation",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sodium",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "ArcelorMittal",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seversk",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Chernobyl",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Phenix",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/core-power-targets-10-billion-order-book-for-nuclear-shipping-by-2030/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Mikal Boe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Core Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mikal Bøe",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Core Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Terrapower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Orano",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/new-build-life-extension/us-nrc-accepts-construction-permit-application-for-terrapowers-natrium-reactor/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jeff Navin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/iaea-and-women-in-the-nuclear-industry-11774836/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Rafael Mariano Grossi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Vienna",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rafael Mariano Grossi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Grossi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sama Bilbao Y Leon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "World Nuclear Association",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Aleshia Duncan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Department of Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francisco Rondinelli",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Brazil",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mitsuru Uesaka",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Byungjoo Min",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Korea Institute for Advancement of Technology",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Soheir Saad Korraa",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Africa",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Marie Skłodowska",
+                    "entity": "MISC"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Curie",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Zarina Salkenova",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Kazakhstan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Zainab Kamara",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Sierra Leone",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lise Meitner",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Lise Meitner",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tatjana Jevremovic",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Raleigh",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "North Carolina State University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Simona Miteva",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Bulgaria",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nobuharu Imanishi",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Diana Musyoka",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Kenya",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mikhail Chudakov",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-launches-training-centre-in-poland-11661395/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Warsaw",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warsaw",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warsaw Technical University",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Michael Goff",
+                    "entity": "Unknown"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Miłosz Motyka",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Warsaw",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warsaw",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/terrapower-applies-for-natrium-reactor-demonstration-project-construction-permit-11651111/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Chris Levesque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "founded by",
+                "tail": {
+                    "word": "Bill Gates",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Natrium",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Everett",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kemmerer",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Wyoming",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Lebeque",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/ustda-to-fund-workshops-on-nuclear-deployment-in-europe-and-eurasia-11642682/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Eurasia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USTDA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "SMR",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USTDA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Westinghouse Electric Company",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nuclearelectrica SA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Romania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Nuclearelectrica SA",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/naarea-and-thorizon-to-partner-on-molten-salt-reactors-11512719/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Wikipedia",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Netherlands",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ivan Gavriloff",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NAAREA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Petten",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "High Flux Reactor",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Thorizon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Thorizon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Orano",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jean Luc Alexandre",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NAAREA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lyon",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dutch",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Assystem",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "France",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/oak-ridge-tackles-groundwater-contamination-at-east-tennessee-technology-park-10811752/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Roger Petrie",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OREM",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Manhattan",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Manhattan Project National Historical Park",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Manhattan",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Manhattan Project National Historical Park",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/kairos-begins-operation-of-molten-salt-system-11438233/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ohio",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Elmore",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mike Laufer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hermes",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Heritage Center Industrial Park",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Albuquerque",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canada-explores-use-of-isotopes-used-in-space-exploration-11426536/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Bharath Nangia",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NPX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "James Scongack",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/bwxt-contracted-to-support-us-haleu-production-11121866/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Virginia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeff Chamberlin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DOE National Nuclear Security Administration",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Lynchburg",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BWXT",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Leido",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "ATK Launch Systems",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sharon Smoot",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "BWXT Nuclear Operations Group",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/record-breaking-run-for-diii-d-national-fusion-facility-11007013/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "General Atomics",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "France",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ITER",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Morgan Shafer",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Theresa Wilks",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MIT PSFC",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-legacy-radioactive-contamination-revealed-in-st-louis-11007007/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "MuckRock",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Missouri",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Los Alamos",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "St Louis",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Mallinckrodt",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "St Louis",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Mallinckrodt",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mallinckrodt",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Weldon Spring",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bridgeton",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Continental Mining & Milling Co",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Colorado",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cotter Corp",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bridgeton",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "West Lake Landfill",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "St Louis",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Coldwater Creek",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Missouri",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Missouri Department of Natural Resources",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denise Brock",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Mallinckrodt",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Karen Nickel",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Chapman",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "St Louis",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Coldwater Creek",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.nucnet.org/news/ultra-safe-nuclear-opens-pilot-fuel-manufacturing-plant-for-microreactor-8-2-2022",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kathryn Huff",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/chinas-experimental-molten-salt-reactor-receives-licence-10952226/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Wuwei",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-delivers-triso-fuel-to-nasa-10943644/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jason Turpin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NASA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kurt Terrani",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nrc-advisors-approve-construction-permit-for-hermes-reactor-10933756/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Christopher Hanson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NRC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Tennessee Valley Authority",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-doe-gain-vouchers-awarded-to-orano-and-terrapower-9797736/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Los Alamos National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Oak Ridge National Laboratory",
+        "frequency": 1
+    }
+]

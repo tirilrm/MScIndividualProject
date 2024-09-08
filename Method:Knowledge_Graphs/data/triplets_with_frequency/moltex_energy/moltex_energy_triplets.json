@@ -1,0 +1,294 @@
+[
+    {
+        "url": "https://www.neimagazine.com/analysis/the-next-step-in-molten-salt-reactor-evolution-10902253/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Britain",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Landon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 16
+    },
+    {
+        "url": "https://www.neimagazine.com/news/moltexflex-awarded-uk-research-grant-to-study-graphite-10564029/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "University of Manchester",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Engineering & Physical Sciences Research Council",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Landon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Abbie Jones",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NGRG",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Morgans",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Abbie Jones",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "University of Manchester",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Henry Royce Institute",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Tweaks-to-FLEX-design-sees-boost-in-power-output",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Hankins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Landon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/moltexflex-to-develop-technology-to-measure-molten-salt-characteristics-10713360/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Cheshire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Phil Quayle",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "James Moffat",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Anton Paar",
+                    "entity": "ORG"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "University of Manchester",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "James Moffat",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 14
+    }
+]

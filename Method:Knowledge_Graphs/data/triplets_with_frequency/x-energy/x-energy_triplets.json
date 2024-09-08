@@ -1,0 +1,802 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/business-complications-for-smr-companies-x-energy-and-nuscale-11268599/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Kam Ghaffarian",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "X",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Kaplan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Ares Management Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doosan",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAMPS",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Standard Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "NuScale Power Modules",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "X-Energy",
+        "frequency": 17
+    },
+    {
+        "url": "https://www.neimagazine.com/news/dow-and-x-energy-advance-efforts-to-deploy-smr-10644608/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jim Fitterling",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "X-Energy",
+        "frequency": 16
+    },
+    {
+        "url": "https://www.neimagazine.com/news/x-energy-to-open-support-centre-for-planned-xe-100-smr-fleet-10673038/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Maryland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Frederick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dorset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Winfrith",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge National Laboratory",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "US Gulf Coast",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bob Schuetz",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "X-Energy",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/xe-100-smr-attracts-south-korean-investment-10531971/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doosan",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doosan Enerbility",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jongdoo Kim",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Doosan",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "X-Energy",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/x-energy-and-transalta-to-assess-use-of-xe-100-smrs-in-alberta-11658926/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "TransAlta Corporation",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dorset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Winfrith",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TransAlta",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Reshaping Energy Systems",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seadrift",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Reshaping Energy Systems",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energy Systems",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Benjamin Reinke",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "X-Energy",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Funds-awarded-to-assist-Xe-100-deployment-in-the-U",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hartlepool",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Carol Tansley",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mick Gornall",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Cavendish Nuclear",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cavendish",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kier Group",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Howden",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Glasgow",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "X-Energy",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/invest-alberta-supports-deployment-of-xe-100-smr-10564079/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "X",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "X-Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "X-Energy",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/X-energy,-TransAlta-to-assess-use-of-Xe-100-in-Alb",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TransAlta Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "TransAlta",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Nathan Neudorf",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Benjamin Reinke",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Alberta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dow",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Seadrift",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Washington",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energy Northwest",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Canadian Nuclear Safety Commission",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "X-Energy",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/South-Korean-investment-in-X-energy",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Doosan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clay Sell",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Doosan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jongdoo Kim",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Doosan",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "X-Energy",
+        "frequency": 13
+    }
+]

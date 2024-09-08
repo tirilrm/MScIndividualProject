@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/inl-sees-market-for-microreactors-in-some-us-states-10884680/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "John Jackson",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "DOE Office of Nuclear Energy",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "HolosGen",
+        "frequency": 3
+    }
+]

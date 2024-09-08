@@ -1,0 +1,27 @@
+ARC
+Babcock and Wilcox
+Berkeley
+BWX
+Elysium
+Flibe
+Framatome
+GE Hitachi
+General Atomics
+Global First Power
+HolosGen
+Holtec
+Hyperion
+Kairos Power
+Last Energy
+Moltex
+Nano Nuclear
+NuScale
+Oak Ridge National Laboratory
+Oklo
+StarCore
+TerraPower
+Terrestial
+ThorCon
+Ultra Safe Nuclear Corporation
+Westinghouse
+X-energy

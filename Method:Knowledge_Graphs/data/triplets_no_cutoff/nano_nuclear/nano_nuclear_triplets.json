@@ -1,0 +1,249 @@
+[
+    {
+        "url": "https://www.neimagazine.com/news/nano-plans-fuel-fabrication-plant-at-idaho-national-laboratory-11096442/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jay Jiang Yu",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NANO",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NANO Nuclear",
+        "frequency": 13
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nanos-odin-reactor-completes-pre-conceptual-design-review-11493738/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jay Jiang Yu",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "James Walker",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Idaho National Laboratory",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NANO Nuclear",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nano-nuclear-closes-funding-round-10604934/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jay Jiang Yu",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NANO Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jeffrey L Binder",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NANO Nuclear Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NANO Nuclear",
+        "frequency": 7
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nano-nuclear-announced-a-second-reactor-design-10638345/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "James Walker",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NANO Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "HALEU",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NANO Nuclear",
+        "frequency": 6
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nano-becomes-first-nuclear-microreactor-company-to-be-listed-publicly-in-usa-11756329/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Jay Jiang Yu",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NANO",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NANO Nuclear",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/moving-mine-waste-10644827/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "McKinley County",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Church Rock",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jonathan Nez",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Navajo Nation",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Arizona",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Flagstaff",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Navajo",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Redwater Pond Road Community",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Navajo Nation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Navajo Nation",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Mexico",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "NECR Mine Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Blanding",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "NANO Nuclear",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/energoatom-to-establish-network-of-electric-charging-stations-10061080/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Energoatom",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Petro Kotin",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Energoatom",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "NANO Nuclear",
+        "frequency": 1
+    }
+]

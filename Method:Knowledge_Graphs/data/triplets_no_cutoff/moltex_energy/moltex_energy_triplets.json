@@ -1,0 +1,2786 @@
+[
+    {
+        "url": "https://www.neimagazine.com/analysis/the-next-step-in-molten-salt-reactor-evolution-10902253/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Britain",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Landon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 16
+    },
+    {
+        "url": "https://www.neimagazine.com/news/moltexflex-awarded-uk-research-grant-to-study-graphite-10564029/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "University of Manchester",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Royce",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Engineering & Physical Sciences Research Council",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Landon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Abbie Jones",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NGRG",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Morgans",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Abbie Jones",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "University of Manchester",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Henry Royce Institute",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 15
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Tweaks-to-FLEX-design-sees-boost-in-power-output",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Hankins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Landon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/moltexflex-to-develop-technology-to-measure-molten-salt-characteristics-10713360/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Cheshire",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Phil Quayle",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "James Moffat",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Anton Paar",
+                    "entity": "ORG"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "University of Manchester",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "James Moffat",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/MoltexFLEX-launches-flexibly-operated-molten-salt",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Landon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 14
+    },
+    {
+        "url": "https://www.neimagazine.com/news/moltexflex-publishes-new-graphite-research-11502011/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Abbie Jones",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NGRG",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ciara Fox",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Henry Royce",
+                    "entity": "Unknown"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/moltex-granted-patent-for-its-fuel-recycling-process-11442696/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rory O’Sullivan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ian Scott",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 12
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canadas-moltex-derisks-innovative-waste-recycling-process-11278290/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Rory O’Sullivan",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Canadian Nuclear Laboratories",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "IDOM",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "AtkinsRéalis",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/moltexflex-refines-design-of-its-flex-reactor-11143421/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Chris Hankins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Landon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/cop28-enec-signs-three-more-smr-agreements-11365120/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Dubai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Emirates Nuclear Energy Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mohamed Al Hammadi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Middle East",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Landon",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Middle East",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Clay Sell",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clean Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "White House",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "TerraPower",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Westinghouse",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Idaho",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Barakah",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 11
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canadian-tribal-communities-secure-stake-in-smr-companies-11189112/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy Canada",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "First Nation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moltex",
+                    "entity": "ORG"
+                },
+                "relation": "ethnicity",
+                "tail": {
+                    "word": "Saa Dene",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "First Nation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 10
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/MoltexFLEX-publishes-research-on-graphite-interact",
+        "triplets": [
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "University of Manchester",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "England",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ciara Fox",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Abbie Jones",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Point Lepreau",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 9
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uks-moltexflex-launches-new-concept-molten-salt-reactor-10061084/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "David Landon",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 5
+    },
+    {
+        "url": "https://www.newcivilengineer.com/latest/a-look-at-the-projects-being-brought-forward-by-great-british-nuclear-24-07-2023/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Bam Nuttall",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Berkeley",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Oldbury",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Newcleo",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Springfields Fuels",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "MoltexFLEX",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Suffolk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Suffolk",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Sizewell C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Somerset",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 2
+    },
+    {
+        "url": "https://www.neimagazine.com/news/estonias-fermi-energia-chooses-bwrx-300-for-its-smr-programme-10582892/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ORLEN Synthos Green Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kalev Kallemets",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Marti Jeltsov",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kallemet",
+                    "entity": "PER"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/nuscale-power-and-fermi-energia-to-explore-advanced-nuclear-application-in-estonia-9965998/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "John Hopkins",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "NuScale Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Terrestrial Energy",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/reinvented-the-dual-fluid-principle-9952766/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Vancouver",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/canada-calls-for-proposals-for-cnri-programme-10064542/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Joe McBrearty",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNL",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "AECL",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/south-koreas-samsung-advances-its-plans-for-a-molten-salt-reactor-10490905/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Samsung Heavy Industries",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Denmark",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Terrestrial Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/organisation-of-canadian-nuclear-industries-receives-funding-for-ready4smr-programme-9897188/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Atlantic Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "OCNI",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brian Fehrenbach",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OCNI",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Brian Fehrenbach",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "OCNI’s Director, Business Development and SMR Supply Chain",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "University of New Brunswick",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ginette Petitpas Taylor",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Arlene Dunn",
+                    "entity": "PER"
+                },
+                "relation": "residence",
+                "tail": {
+                    "word": "New Brunswick",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/Fermi-Energia-requests-bids-from-three-SMR-vendors",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kalev Kallemets",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Marti Jeltsov",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/uk-launches-nuclear-revival-11019899/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point C",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Sizewell",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Hinkley Point",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Japan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Warrington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear Laboratory",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Preston",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "North West",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tom Greatrex",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "David Peattie",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuclear Decommissioning Authority",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Gwen Parry",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "GBN",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/smr-development-tracked-by-nea-and-iaea-studies-10691068/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ARC Clean Technology",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM25",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CAREM (CNEA",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "Argentina",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNEA",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CGN",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNCC",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rolls Royce",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rosatom",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "China",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "CNNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Urenco",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Hermes",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Kairos",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Akademik Lomonosov",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian Federation",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "BREST",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "eVinci",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Nuward",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/south-korea-and-denmark-to-collaborate-on-leu-fuel-salt-production-10961645/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kepco",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "South Korea",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kepco Nuclear Fuel",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Samsung Heavy Industries",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Korean",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Choi Ik",
+                    "entity": "Unknown"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "KNF",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kim Young",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Shin",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Navid Samandari",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Seaborg",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Terrestrial Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Thorcon",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Indonesia",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/us-awards-gain-vouchers-to-accelerate-advanced-nuclear-technologies-10978640/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Utah",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "American Fork",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "San Diego",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "California",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Alameda",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moltex Energy USA",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Wilmington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Texas",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Round Rock",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pennsylvania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Cranberry",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/usnc-details-uk-funding-award-for-mmr-development-11030388/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ultra Safe Nuclear Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Jacobs",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Francesco Venneri",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "UNSC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "UK",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Karen Wiemel",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Jacobs Energy",
+                    "entity": "Unknown"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "USNC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Finland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Lappeenranta",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Oak Ridge",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "East Tennessee Technology Park",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "National Nuclear",
+                    "entity": "Unknown"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/cop28-enec-signs-mou-on-co-operation-with-terrestrial-energy-11374716/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Dubai",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Emirates Nuclear Energy Corporation",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mohamed Al Hammadi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Terrestrial Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "capital",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "ENEC",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "IMSR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UAE",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "IMSR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Simon Irish",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IMSR",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "UK",
+                    "entity": "MISC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Springfields Fuels Limited",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/news/swedens-ksu-to-support-estonias-fermi-energia-on-training-for-its-smr-programme-11447506/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Henri Ormus",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.world-nuclear-news.org/Articles/BWRX-300-selected-for-Estonia-s-first-nuclear-powe",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Hitachi Nuclear Energy",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "GEH",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Toronto",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kalev Kallemets",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jay Wileman",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Ontario",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Darlington",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Tennessee",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Clinch River Site",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains division",
+                "tail": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Saskatchewan",
+                    "entity": "LOC"
+                },
+                "relation": "division",
+                "tail": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kallemet",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Riigikogu",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kallemet",
+                    "entity": "PER"
+                }
+            },
+            {
+                "head": {
+                    "word": "Estonia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    },
+    {
+        "url": "https://www.neimagazine.com/analysis/nuclear-newcomers-surge-9829730/",
+        "triplets": [
+            {
+                "head": {
+                    "word": "Rafael Mariano Grossi",
+                    "entity": "PER"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "IAEA",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Dhaka",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rooppur",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Bangladesh",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Rooppur",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Grodno",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Ostrovets",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mediterranean",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Akkuyu",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Rosatom",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Abu Dhabi",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Barakah",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Mediterranean",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Matruh",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Moltex Energy",
+                    "entity": "ORG"
+                },
+                "relation": "company location",
+                "tail": {
+                    "word": "UK",
+                    "entity": "MISC"
+                }
+            },
+            {
+                "head": {
+                    "word": "GE Hitachi",
+                    "entity": "ORG"
+                },
+                "relation": "company",
+                "tail": {
+                    "word": "Fermi Energia",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Canada",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Laurentis Energy Partners",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Korea",
+                    "entity": "Unknown"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Batan",
+                    "entity": "ORG"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Puspiptek",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kazakhstan",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Aktau",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Jomart Tokayev",
+                    "entity": "PER"
+                },
+                "relation": "nationality",
+                "tail": {
+                    "word": "Kazakhstan",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Kenya",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kepco",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Pomerania",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Kopalino",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "GE Steam Power",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Swierk",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Poland",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "KGHM Polska Miedz",
+                    "entity": "ORG"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Ukraine",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Russian",
+                    "entity": "MISC"
+                },
+                "relation": "country of origin",
+                "tail": {
+                    "word": "Russia",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Asia",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Middle East",
+                    "entity": "LOC"
+                }
+            },
+            {
+                "head": {
+                    "word": "Europe",
+                    "entity": "LOC"
+                },
+                "relation": "contains",
+                "tail": {
+                    "word": "Moscow",
+                    "entity": "LOC"
+                }
+            }
+        ],
+        "target": "Moltex Energy",
+        "frequency": 1
+    }
+]
