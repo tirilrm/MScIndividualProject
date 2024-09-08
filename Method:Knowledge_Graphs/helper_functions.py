@@ -111,10 +111,10 @@ def view_graph(G, root, max_depth, direction, num_nodes):
         nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_labels, font_color='gray', font_size=5, ax=ax)
     
     num_edges = G.number_of_edges()  # Get the number of edges
-    #plt.title(f"Knowledge Graph for {root[0]}, {direction.capitalize()} Prune After Depth {max_depth_message} (N={num_nodes}, E={num_edges})", fontsize=14)
+    plt.title(f"Knowledge Graph for {root[0]}, {direction.capitalize()} Prune After Depth {max_depth_message} (N={num_nodes}, E={num_edges})", fontsize=14)
     
     legend_patches = [mpatches.Patch(color=color, label=entity) for entity, color in entity_colors.items()]
     legend_patches.append(mpatches.Patch(color='#d90000', label=root[0]))
-    #plt.legend(handles=legend_patches, loc='best', fontsize=10)
+    plt.legend(handles=legend_patches, loc='best', fontsize=10)
 
     return fig, ax
