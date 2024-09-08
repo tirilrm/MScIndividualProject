@@ -1,0 +1,15 @@
+# Ignore virtual environemnts, large files etc.
+env/
+ignore/
+Data_collection:Scraping/articles/old/
+Appendix:Not_in_report/RE_model/old
+Appendix:Not_in_report/RE_model/checkpoints
+Appendix:Not_in_report/RE_model/models
+Findings:Clustering/data
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
